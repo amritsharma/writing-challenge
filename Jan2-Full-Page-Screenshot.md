@@ -22,4 +22,4 @@ Type `screenshot` in the Command Menu textbox and select `Capture full size scre
 
 ![Screenshot](https://i.imgur.com/m0IoYom.png)
 
-That's it. 
+~
