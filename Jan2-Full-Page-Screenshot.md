@@ -8,14 +8,20 @@ Thanks to this [article](https://zapier.com/blog/full-page-screenshots-in-chrome
 
 We're going to hop on the Developer Tools on Chrome to accomplish this.
 
-## Step 1
-Hold down these three keys on your keyboard: `Alt + Command + I`
-You should 
+## Step 1: Developer Tools
+Hold down these three keys on your keyboard `Alt + Command + I` to reveal the Developer Tools panel in Google Chrome.
 
-## Step 2
-Command + Shift + P
+![Developer Tools](https://i.imgur.com/uWR5BlY.png)
 
-## Step 3
-Profit?
+## Step 2: Command Menu
+Open the Command Menu with this keyboard shortcut: `Command + Shift + P`. It looks like a textbox with a dropdown under it. 
+The [Command Menu](https://developers.google.com/web/tools/chrome-devtools/command-menu) "provides a fast way to navigate the Chrome DevTools UI and accomplish common tasks."
 
-Conclusion...
+![Developer Tools](https://i.imgur.com/sumjrv7.png)
+
+## Step 3: Screenshot!
+Type `screenshot` in the Command Menu textbox and select **Capture full size screenshot** from the dropdown.
+
+![Screenshot](https://i.imgur.com/m0IoYom.png)
+
+
