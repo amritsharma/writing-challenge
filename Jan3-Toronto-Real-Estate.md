@@ -13,7 +13,7 @@ In 2018, Max and Kyra started renting a one-bed, one-den, one-bath condo near Yo
 
 Of course, it wasn't the first time this thought had crossed their mind. Lamenting about the ever rising real estate prices in the GTA area while [*zillow surfing*](https://marker.medium.com/zillow-surfing-has-become-a-primary-form-of-escapism-for-those-who-want-to-flee-not-just-their-857de638cf3f) and dreading how the mortgage payments would eat into their paycheques was a regular topic of conversation at their dinner table. 
 
-On September 27, Kyra nonchalantly shared a realtor.ca link for a three-bedroom three-bathroom townhouse in Regant Park with Max. They had bounced MLS listings of homes for sale back and forth a quite a few times before. Somehow this one set off a series of unplanned and unexpected events that led them to ... you guessed it... buying a house within the next few days!
+On September 27, Kyra nonchalantly shared a realtor.ca link of a three-bedroom three-bathroom townhouse in Regant Park with Max. This wasn't unusual, they had bounced MLS listings of homes for sale back and forth a quite a few times before. Somehow this one set off a series of unplanned and unexpected events that led them to ... you guessed it... buying a house within the next few days!
 
 
 #### Option 1: Regent Park (near Dundas and Parliament). Listed at $798,000, sold for $1,000,000
