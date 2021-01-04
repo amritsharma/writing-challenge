@@ -1,4 +1,4 @@
-This article is an adaption of a blog post that appeared in [Toronto Life](https://torontolife.com/real-estate/a-toronto-couple-just-bought-this-1-2-million-semi-in-the-upper-beaches/) in November 2020.
+This article is an adaption of a blog post by [Ali Amad](https://torontolife.com/author/ali-amad/) that appeared in [Toronto Life](https://torontolife.com/real-estate/a-toronto-couple-just-bought-this-1-2-million-semi-in-the-upper-beaches/) magazine on Nov 2, 2020.
 
 ## A Toronto couple just bought this $1.2-million semi in the Upper Beaches
 
