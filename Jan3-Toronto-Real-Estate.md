@@ -36,7 +36,7 @@ In late August, the Moores went to a viewing for this three-bed, two-bath detach
 [85 Carlaw Ave, Toronto](https://housesigma.com/web/en/house/LzQ1y5Ep1pMyqdeK/85-Carlaw-Ave-Toronto-M4M2R6-E4927488)
 3 bedrooms. 2 bathrooms. Semi-detached house.
 
-![Option 3](https://imgur.com/bErRuwL)
+![Option 3](https://imgur.com/bErRuwL.png)
 
 
 #### The buy: Mortimer Ave (near Danforth and Coxwell). Listed at $999,900, sold for $1,218,000
