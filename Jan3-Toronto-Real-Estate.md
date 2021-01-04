@@ -9,26 +9,28 @@ A two-bed, two-bath semi in the Upper Beaches
 Max Schreiber, 34, data scientist at Rogers; Kyra A. Gleason, 33, doctor at Humber River Hospital.
 
 #### The story
-In 2018, Max and Kyra started renting a one-bed, one-den, one-bath condo near Yorkdale Mall for $2,100. They didn't particularly enjoy living in the area, although being quite close to the mall and the Yorkdale TTC station was some consolation. The pandemic changed their quality of life equation when they were both forced to work from home miles away from the hustle and bustle of the city. Stuck inside for most of the day, Max and Kyra longed for big light-letting windows or a backyard where they could get some fresh air without having to gear up with PPE. That got them thinking about upsizing. Lamenting about rising real estate prices and "We can't afford to buy anything in the city" . In July, the Moores began searching for a three-bedroom with a backyard, since they plan to have children in the near future.
+In 2018, Max and Kyra started renting a one-bed, one-den, one-bath condo near Yorkdale Mall for $2,100. They didn't particularly enjoy living in the area, although being quite close to the mall and the Yorkdale TTC station was some consolation. The pandemic changed their quality of life equation when they were both forced to work from home miles away from the hustle and bustle of the city. Stuck inside for most of the day, Max and Kyra longed for big light-letting windows or a backyard where they could get some fresh air without having to gear up with PPE first. That got them thinking about upsizing. 
 
-TKTK 
+Lamenting about the ever rising real estate prices in the GTA area while [*zillow surfing*](https://marker.medium.com/zillow-surfing-has-become-a-primary-form-of-escapism-for-those-who-want-to-flee-not-just-their-857de638cf3f) and dreading how the mortgage payments would eat into their paycheques was a frequent topic of conversation at their dining table. On September 27, Kyra nonchalantly shared a realtor.ca link for a three-bedroom three-bathroom townhouse in Regant Park with Max. They had bounced MLS listings of homes for sale back and forth a quite a few times before. Somehow this one set off a series of unplanned and unexpected events that led them to ... you guessed it... buying a house within the next few days!
 
-#### Option 1: Rhodes Avenue (near Gerrard and Coxwell). Listed at $799,000, sold for $1,081,000
-62 Cole St, Toronto, ON M5A 0A8
+
+#### Option 1: Regent Park (near Dundas and Parliament). Listed at $798,000, sold for $1,000,000
+[62 Cole St, Toronto, ON M5A 0A8](https://housesigma.com/web/en/house/56k97wqJXMxYKRjD/62-Cole-St-Toronto-M5A0A8-C4924295)
+3 bedrooms. 3 bathrooms. Townhouse.
 
 ![Option 1](https://imgur.com/xiHAW6m.png)
 
 Bobby appreciated this newly renovated two-bed, three-bath semi’s charming front porch and brick façade. The place also had a finished basement, a spacious kitchen and a well-kept backyard shed, which the seller used as an office, making it a viable work-from-home space for the couple. But Eric hated the long and narrow layout of the master bedroom, which would barely fit a king-sized bed. Plus, the place had no air conditioning. Still, at just under $800,000, it fell well below their maximum budget, so the Moores decided to place an offer. Anticipating a bidding war because of the low listing price, the couple made a first and final bid of $205,000 over asking, hoping to edge out any potential competition. That’s as high as they were willing to go, factoring in the roughly $30,000 it would take to install central air. Unsurprisingly, the place attracted 18 competing bids and eventually sold for $77,000 over their initial offer. So Bobby and Eric kept looking.
 
-#### Option 2: Leroy Avenue (near Danforth and Greenwood). Listed at $999,900, sold for $1,352,000
-5 Florence Wyle Ln, Toronto, ON
+#### Option 2: East China Town (near Dundas and DVP). Listed at $799,999, sold for $810,000
+[5 Florence Wyle Ln, Toronto, ON](https://housesigma.com/web/en/house/K8OgYBVpWe6YJmG2/24-Florence-Wyle-Lane-5-Toronto-M4M3E7-E4927479)
 
 ![Option 2](https://imgur.com/SGeHhoe.png)
 
 In late August, the Moores went to a viewing for this three-bed, two-bath detached home in the Danforth. Bobby loved the home’s brick exterior and yellow front door, as well as the blond hardwood floors throughout the interior. Eric was just happy that the master bedroom had normal dimensions, with enough room for bedside tables, a dresser and even a full-length mirror. The couple also imagined converting one of the other bedrooms into a home office. There were a few issues, though. The seller had laid recycled mulch in the front yard and the couple worried that, if swallowed, the rubber could be harmful to Raffy or any future kids. And a report from the seller revealed that the basement was at risk of flooding. Wary of the added cost (and headache) of redoing the front yard and waterproofing the basement, the couple opted to move on without making an offer.
 
-#### Option 3: Near blah blah and blah blah.
-85 Carlaw Ave, Toronto, ON
+#### Option 3: Riverside Neighborhood (near Eastern and Carlaw Ave). 899,900
+[85 Carlaw Ave, Toronto](https://housesigma.com/web/en/house/LzQ1y5Ep1pMyqdeK/85-Carlaw-Ave-Toronto-M4M2R6-E4927488)
 
 ![Option 3](https://imgur.com/bErRuwL)
 
