@@ -11,7 +11,9 @@ Max Schreiber, 34, data scientist at Rogers; Kyra A. Gleason, 33, doctor at Humb
 #### The story
 In 2018, Max and Kyra started renting a one-bed, one-den, one-bath condo near Yorkdale Mall for $2,100. They didn't particularly enjoy living in the area, although being quite close to the mall and the Yorkdale TTC station was some consolation. The pandemic changed their quality of life equation when they were both forced to work from home miles away from the hustle and bustle of the city. Stuck inside for most of the day, Max and Kyra longed for big light-letting windows or a backyard where they could get some fresh air without having to gear up with PPE first. That got them thinking about upsizing. 
 
-Lamenting about the ever rising real estate prices in the GTA area while [*zillow surfing*](https://marker.medium.com/zillow-surfing-has-become-a-primary-form-of-escapism-for-those-who-want-to-flee-not-just-their-857de638cf3f) and dreading how the mortgage payments would eat into their paycheques was a frequent topic of conversation at their dining table. On September 27, Kyra nonchalantly shared a realtor.ca link for a three-bedroom three-bathroom townhouse in Regant Park with Max. They had bounced MLS listings of homes for sale back and forth a quite a few times before. Somehow this one set off a series of unplanned and unexpected events that led them to ... you guessed it... buying a house within the next few days!
+Of course, it wasn't the first time this thought had crossed their mind. Lamenting about the ever rising real estate prices in the GTA area while [*zillow surfing*](https://marker.medium.com/zillow-surfing-has-become-a-primary-form-of-escapism-for-those-who-want-to-flee-not-just-their-857de638cf3f) and dreading how the mortgage payments would eat into their paycheques was a regular topic of conversation at their dinner table. 
+
+On September 27, Kyra nonchalantly shared a realtor.ca link for a three-bedroom three-bathroom townhouse in Regant Park with Max. They had bounced MLS listings of homes for sale back and forth a quite a few times before. Somehow this one set off a series of unplanned and unexpected events that led them to ... you guessed it... buying a house within the next few days!
 
 
 #### Option 1: Regent Park (near Dundas and Parliament). Listed at $798,000, sold for $1,000,000
@@ -24,6 +26,7 @@ Bobby appreciated this newly renovated two-bed, three-bath semi’s charming fro
 
 #### Option 2: East China Town (near Dundas and DVP). Listed at $799,999, sold for $810,000
 [5 Florence Wyle Ln, Toronto, ON](https://housesigma.com/web/en/house/K8OgYBVpWe6YJmG2/24-Florence-Wyle-Lane-5-Toronto-M4M3E7-E4927479)
+2 bedrooms. 2 bathrooms. Townhouse.
 
 ![Option 2](https://imgur.com/SGeHhoe.png)
 
@@ -31,6 +34,7 @@ In late August, the Moores went to a viewing for this three-bed, two-bath detach
 
 #### Option 3: Riverside Neighborhood (near Eastern and Carlaw Ave). 899,900
 [85 Carlaw Ave, Toronto](https://housesigma.com/web/en/house/LzQ1y5Ep1pMyqdeK/85-Carlaw-Ave-Toronto-M4M2R6-E4927488)
+3 bedrooms. 2 bathrooms. Semi-detached house.
 
 ![Option 3](https://imgur.com/bErRuwL)
 
