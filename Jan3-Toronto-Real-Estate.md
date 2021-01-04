@@ -34,7 +34,7 @@ After a short drive to the other side of the DVP, Max and Kyra walked up to a bi
 
 #### Option 3: Riverside Neighborhood (near Queen St and Coxwell Ave). Listed at $799,900, sold for $870,000.
 [33 Coxwell Ave, Toronto](https://housesigma.com/web/en/house/Zaw5Yo5VoDp7n961/33-Coxwell-Ave-Toronto-M4L3A9-E4926904)
-3 bedrooms. 2 bathrooms. Detached house. No maintenance fee.
+2+2 bedrooms. 1 bathroom. Detached house. No maintenance fee.
 
 ![Option 3](https://imgur.com/yTM4P0V.png)
 
@@ -43,12 +43,14 @@ This house made quite an impression on Max and Kyra. This detached(!) house was 
 
 #### The buy: Mortimer Ave (near Danforth and Coxwell). Listed at $899,900, sold for $918,000.
 XXX Mortimer Ave, Toronto
-2 bedrooms. 2 bathrooms. Semi-detached house. No maintenance fee.
+2 bedrooms. 2 bathrooms. Semi-detached townhouse. No maintenance fee.
 
 ![The buy](https://i.imgur.com/yWG0yi4.png)
 
-The sun had set long before they arrived at this house, but their luck had started to shine bright. This all white interior was plush with freshly painted walls, seemingly new and fancy appliances and not your average fin   It was dark aTlready when the realLater that day, the Moores made a stop at this three-bed, two-bath semi in the Upper Beaches. It was in excellent condition and had a large backyard. Plus, there was a playground and a dog park across the street, both of which would be perfect for Raffy and their future family. Another bonus: the finished basement could be converted into a TV room and a gym. To eliminate the kind of competition they encountered earlier in their search, Bobby and Eric made another aggressive initial bid at $205,100 over asking. That narrowed the field to two matching offers. But this time, the Moores were willing to go a bit higher. They threw in another $13,000 and sealed the deal.
+The sun had set long before they arrived at this house. Max and Kyra walked in and were greeted with a house that already felt like home. Was it love at first sight? After walking around the house, Kyra said "Do we have to leave?" Max was surprised at how much bang they were getting for their buck (at the list price) here. This house had an all white interior with freshly painted walls, seemingly new and fancy appliances and finishing touches that screamed comfort and luxury. It was in excellent condition. This three storey semi-detached townhouse had decent sized bedrooms, a finished basemeent, a manicured front yard, a modestly sized backyard and a combinbation of large windows and pot lights throughout the house. Plus, there was a playground and a dog park across the street, both of which would be perfect for when their friends visit with their furry companions. Another bonus: the finished basement meant that Kyra and Max wouldn't have to work next to each other and coordinate when they'd be on a call to not disturb each other. Max was skeptical that they could make a compelling enough offer on this house. "They're joking with us for listing this at only $899k," Max said. "It's nice that they let us mere mortals experience how people with nice houses in nice neighborhoods live. This one's going to go for at least a million!" Kyra wasn't going to participate in a bidding war but suggested that they made an offer they were comfortable with and see what happened. 
 
-Bobby and Eric will make the move in early November. Aside from painting the home’s exterior panels and replacing the front door, they also plan on installing his-and-hers sinks in the master bathroom. They expect all of that to cost anywhere from $5,000 to $13,000. And finally: one of the bedrooms, which they want to convert into an office, has a west-facing window that gets plenty of natural light—the perfect place to work-from-home during the winter months.
+The following day, the seller countered Max and Kara's offer with a slightly higher price. Kara and Max agreed to their counter offer.
 
+Kyra and Max went from nonchalantly zilliow browsing to having an offer accepted in 6 days flat. No bidding wars. No multiple trips with the realtor to check out houses for sale. No upgrades needed. No major repairs anticipated. Somehow Max and Kyra had a smooth experience buying real estate in Toronto. "Is this really happening?" Kyra exclaimed to Max. "I guess so," Max replied.
 
+~
