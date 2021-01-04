@@ -1,9 +1,9 @@
 This article is an adaption of a blog post by [Ali Amad](https://torontolife.com/author/ali-amad/) that appeared in [Toronto Life](https://torontolife.com/real-estate/a-toronto-couple-just-bought-this-1-2-million-semi-in-the-upper-beaches/) magazine on Nov 2, 2020.
 
-## A Toronto couple just bought this $1.2-million semi in the Upper Beaches
+## A Toronto couple just bought this $900,000 semi in the Danforth Village
 
 #### The buy
-A two-bed, two-bath semi in the Upper Beaches
+A two-bed, two-bath semi in the Danforth Village
 
 #### The buyers
 Max Schreiber, 34, data scientist at Rogers; Kyra A. Gleason, 33, doctor at Humber River Hospital.
