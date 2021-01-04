@@ -34,11 +34,11 @@ After a short drive to the other side of the DVP, Max and Kyra walked up to a bi
 
 #### Option 3: Riverside Neighborhood (near Queen St and Coxwell Ave). Listed at $799,900, sold for $870,000.
 [33 Coxwell Ave, Toronto](https://housesigma.com/web/en/house/Zaw5Yo5VoDp7n961/33-Coxwell-Ave-Toronto-M4L3A9-E4926904)
-3 bedrooms. 2 bathrooms. Semi-detached house. No maintenance fee.
+3 bedrooms. 2 bathrooms. Detached house. No maintenance fee.
 
-![Option 3](https://imgur.com/bErRuwL.png)
+![Option 3](https://imgur.com/yTM4P0V.png)
 
-This house made quite an impression on Max and Kyra. The semi-detached house was painted black except for the front door, which was bright red. Max couldn't help but humm "Paint it, black" by the Rolling Stones as they walked into the newly gutted and renovated house on Carlaw Ave. You could practically smell the fresh paint and new appliances throughout the house. The house felt new but more than a few rough edges. The master bedroom on the upper level had a slanted roof that made only half of the floor space accessible by foot. The other two bedrooms were in the basement and would fit little more than a Queen sized bed. The hightlight of this house was the expansive back yard that was the biggest they had thought imaginable in downtown. Although the house didn't live up their expectations, Kyra and Max imagined the possibilities of this backyard from summer BBQs to renting out a tent on airbnb. It was already getting dark at this point and mosquitos were trying to swarm into the house and enjoy the warmth of the light bulbs. Max and Kyra were unsure whether they would enjoy making this place home and set off to look at the last property of the day.
+This house made quite an impression on Max and Kyra. This detached(!) house was painted black except for the front door, which was bright red. Max couldn't help but humm "Paint it, black" by the Rolling Stones as they walked into the newly gutted and renovated house on Carlaw Ave. You could practically smell the fresh paint and new appliances throughout the house. The house felt new but more than a few rough edges. The master bedroom on the upper level had a slanted roof that made only half of the floor space accessible by foot. The other two bedrooms were in the basement and would fit little more than a Queen sized bed. The hightlight of this house was the expansive back yard that was the biggest they had thought imaginable in downtown. Although the house didn't live up their expectations, Kyra and Max imagined the possibilities of this backyard from summer BBQs to renting out a tent on airbnb. It was already getting dark at this point and mosquitos were trying to swarm into the house and enjoy the warmth of the light bulbs. Max and Kyra were unsure whether they would enjoy making this place home and set off to look at the last property of the day.
 
 
 #### The buy: Mortimer Ave (near Danforth and Coxwell). Listed at $899,900, sold for $918,000.
