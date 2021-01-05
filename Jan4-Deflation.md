@@ -10,6 +10,8 @@ Deflation is a vicious cycle.
 
 If deflation only meant falling prices and being able to afford for things, then yeah, deflation would be great. Unfortunately there are downstrem consequences of falling prices.
 
+![The Vicious Deflation Cycle](https://i.imgur.com/322UM1t.gif)
+
 Here's what happens when the vicious cycle of deflation takes hold:
 
 1. The price of *Product X* drops. 
