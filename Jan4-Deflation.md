@@ -1,4 +1,4 @@
-## "What would anyone have a problem with deflation!? I don't."
+## "Why would anyone have a problem with deflation!? I don't."
 
 
 ### Story Time
