@@ -1,6 +1,7 @@
-## What could possibly be wrong with deflation!?
+## "What would anyone have a problem with deflation!? I don't."
 
-#### Story Time
+
+### Story Time
 Imagine this. You're killing it. You have a well-paying job, live in a nice apartment, even put money away into your retirement accounts already, but somehow you still driving your rusted 2003 Ford Pindo that you bought in your Sophomore Year many moons ago. You could afford to buy a much nicer car for about $15,000 - heck, even reasonably pay cash for it. 
 
 But... what if I told you that if you hold off on that big ticket purchase for a month or two, you could probably get it for a couple thousand dollar less. 
@@ -15,7 +16,8 @@ In a deflation, it's not just the price of cars that fall. The general prices of
 
 Sounds great, right? What could possibly be wrong with things getting more and more affordable over time, right?
 
-#### Here's the problem...
+
+### Here's the problem...
 
 In an economy, one person's spending is another person's income.
 
@@ -34,7 +36,7 @@ Here's what happens when the vicious cycle of deflation takes hold:
 
 ![The Vicious Deflation Cycle](https://i.imgur.com/322UM1t.gif)
 
-#### One More Thing
+### One More Thing
 If you know we are in a deflationary period, wouldn't you be less likely to spend money to buy something today because you could buy even more of it with the money you have in the future. This disincentive reduces demand and leads to prices falling even further.
 
 
