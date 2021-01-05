@@ -2,19 +2,19 @@
 
 
 ### Story Time
-Imagine this. You're killing it. You have a well-paying job, live in a nice apartment, even put money away into your retirement accounts already, but somehow you still driving your rusted 2003 Ford Pindo that you bought in your Sophomore Year many moons ago. You could afford to buy a much nicer car for about $15,000 - heck, even reasonably pay cash for it. 
+Imagine this. You're killing it. You have a well-paying job, live in a nice apartment, even put money into your retirement accounts every paycheck, but you're still driving your rusty 2003 Ford Pindo that you bought in your Sophomore Year many moons ago. You could reasonably afford to buy a much nicer car for about $15,000 today.
 
-But... what if I told you that if you hold off on that big ticket purchase for a month or two, you could probably get it for a couple thousand dollar less. 
+But... what if I told you that if you hold off on that big ticket purchase for a month or two, you could probably get it for a couple thousand dollars less. 
 
 After all, we live in deflationary times. The purchasing power of the dollars, rupees or Pesos in your pocket is rising by the day. You get more bang for your buck today than you did yesterday. That's how deflation work.
 
-How cool is that?
+*How cool is that?*
 
 If you hold off on buying that car for a year, maybe you could get it for $9,000. Who knows? Maybe a bit less!
 
-In a deflation, it's not just the price of cars that fall. The general prices of good and services across the economy are in a downward trend.
+In a deflation, it's not just the price of cars that fall. The general prices of good and services across the economy are stuck in a downward trend.
 
-Sounds great, right? What could possibly be wrong with things getting more and more affordable over time, right?
+Sounds great, right? What could possibly be wrong about things getting more and more affordable over time?
 
 
 ### Here's the problem...
