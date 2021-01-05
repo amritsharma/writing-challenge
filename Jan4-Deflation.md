@@ -1,4 +1,4 @@
-## What could possibly be wrong with defaltion!?
+## What could possibly be wrong with deflation!?
 
 #### Story Time
 Imagine this. You're killing it. You have a well-paying job, live in a nice apartment, even put money away into your retirement accounts already, but somehow you still driving your rusted 2003 Ford Pindo that you bought in your Sophomore Year many moons ago. You could afford to buy a much nicer car for about $15,000 - heck, even reasonably pay cash for it. 
