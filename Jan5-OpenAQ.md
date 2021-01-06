@@ -4,7 +4,7 @@ During the winter in 2016, I found myself frantically searching for an answer to
 
 It should be, right?
 
-But in Northern India during winter, it isn't. Not even close. It's gray, depressing and suffocating. Sunshine barely makes it through the thick layer of smog above the city that more than 46 million people call home. On a good day, air quality levels are *very unhealthy*. Otherwise, it's downright *hazardous*. That's not my opinion, by the way. That's precisely what the US EPA says it is based on the air quality measurements.
+But in Northern India, it wasn't. Not even close. It was gray, depressing and suffocating. Sunshine barely made it through the thick layer of smog above the city that more than 46 million people call home. On a good day, air quality levels are *very unhealthy*. Otherwise, it's downright *hazardous*. That's not my opinion, by the way. That's precisely what the US EPA (Environment Protection Agency) says it is based on the air quality measurements.
 
 That's where OpenAQ comes in. Among other things, OpenAQ is an API for anyone to access near real-time data from air quality monitoring stations in New Delhi and around the world. It is magical. A one-stop shop for standardized research-grade air quality data from 90+ countries. 
 
