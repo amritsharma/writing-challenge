@@ -22,7 +22,7 @@ This article is the first step in that journey.
 
 A frequently asked question on the OpenAQ slack channel is: **"How can I get last week's air quality data for my city from OpenAQ?"**
 
-#### 1. Non-technical Approach
+#### 1. Non-Technical Approach
 If this is new to OpenAQ or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
 
 ![OpenAQ GUI by Dolugen](https://i.imgur.com/ojykyQi.png)
