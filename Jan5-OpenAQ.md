@@ -12,17 +12,33 @@ Officially: *OpenAQ is a non-profit organization on a mission to empower people 
 
 ![OpenAQ logo](https://i.imgur.com/Kgw9ztB.png)
 
-Fast forward to 2021.
+#### Fast forward to 2021.
 
 Now that I have a couple years of Developer Relations experience under my belt, I have a few ideas for how I contribute to the open source OpenAQ platform as a community member by making it more accessible to developers worldwide.
 
 This article is the first step in that journey.
 
-A frequently asked question on the OpenAQ slack channel is: "How can I get last week's air quality data for my city from OpenAQ?"
+#### One Small Step
 
-If this is new to you or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
+A frequently asked question on the OpenAQ slack channel is: **"How can I get last week's air quality data for my city from OpenAQ?"**
 
-You can use the `/measurements` API endpoint to get air quality data for any country/city/location in a date range, along with several other selectors as well.
+##### 1. Non-technical Approach
+If this is new to OpenAQ or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
 
 For example: This is the what the API call to get PM2.5 data for the first 5 days of 2020 in Kathmandu, Nepal looks like:  https://api.openaq.org/v1/measurements?country=NP&city=Kathmandu&parameter=pm25&date_from=2020-01-01&date_to=2020-12-05
+
+
+##### 2. Overview 
+You can use the `/measurements` API endpoint to get air quality data for any country/city/location in a date range, along with several other selectors as well.
+
+##### 3. Three 
+Insert text here.
+
+##### 4. Three 
+Insert text here.
+
+##### 5. Three 
+Insert text here.
+
+
 
