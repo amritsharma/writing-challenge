@@ -42,7 +42,7 @@ For example: This is the what the API call to get PM2.5 pollutant data for the f
 
 
 #### 3. Export as CSV or JSON
-By default, the API response will be a JSON object. You can append `&format=csv` to the API call.
+By default, the API response will be a JSON object. You can append `&format=csv` to the API call to get CSV instead.
 
 #### 4. Understanding the API Response 
 
@@ -58,6 +58,6 @@ The API response contains a block for every measurement that matches your criter
 | coordinates | 18.5011743, 73.8165527	      |
 | date.local | 2021 Jan 2, 10:45:00      |
 
-What does this block tell us? The air quality station at `Kavre Road, Pune - MPCB` in Pune, India recorded PM2.5 levels at 45.6µg/m³ on Jan 2, 2021 10:45am. This station on Kavre Road is at `18.5011743, 73.8165527` coordinates.
+What does this block tell us? The air quality station at `Kavre Road, Pune - MPCB` in `Pune, India` recorded `PM2.5` levels at `45.6µg/m³` on `Jan 2, 2021 10:45am`. This coordinates for this station on Kavre Road is `18.5011743, 73.8165527`.
 
 ~
