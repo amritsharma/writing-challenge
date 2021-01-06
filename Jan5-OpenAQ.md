@@ -45,10 +45,19 @@ For example: This is the what the API call to get PM2.5 pollutant data for the f
 By default, the API response will be a JSON object. You can append `&format=csv` to the API call.
 
 ##### 4. Understanding the API Response 
-Insert text here.
 
-##### 5. Three 
-Insert text here.
+The API response contains a block for every measurement that matches your criteria in the OpenAQ database.
 
+| Filter        | Value           |
+| ------------- |:-------------:|
+| location      | Karve Road, Pune - MPCB	 |
+| city, country      | Pune, IN      |
+| parameter | pm25      |
+| value      | 45.6      |
+| unit | µg/m³      |
+| coordinates | 18.5011743, 73.8165527	      |
+| date.local | 2021 Jan 2, 10:45:00      |
+
+What does this block tell us? The air quality station at `Kavre Road, Pune - MPCB` in Pune, India recorded PM2.5 levels at 45.6µg/m³ on Jan 2, 2021 10:45am. This station on Kavre Road is at `18.5011743, 73.8165527` coordinates.
 
 
