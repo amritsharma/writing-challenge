@@ -1,5 +1,3 @@
-Let's go.
-
 ## How can I get last week's air quality data for my city from OpenAQ?
 
 During the winter in 2016, I found myself frantically searching for an answer to a very simple question: "Why isn't sky blue?" 
@@ -12,6 +10,8 @@ That's where OpenAQ comes in. Among other things, OpenAQ is an API for anyone to
 
 Officially: *OpenAQ is a non-profit organization on a mission to empower people world to fight air inequality and clean their air by harmonizing, sharing, and using open air quality data.*
 
+![OpenAQ logo](https://i.imgur.com/Kgw9ztB.png)
+
 Fast forward to 2021.
 
 Now that I have a couple years of Developer Relations experience under my belt, I have a few ideas for how I contribute to the open source OpenAQ platform as a community member by making it more accessible to developers worldwide.
@@ -20,7 +20,7 @@ This article is the first step in that journey.
 
 A frequently asked question on the OpenAQ slack channel is: "How can I get last week's air quality data for my city from OpenAQ?"
 
-```If this is new to you or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.```
+If this is new to you or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
 
 You can use the `/measurements` API endpoint to get air quality data for any country/city/location in a date range, along with several other selectors as well.
 
