@@ -12,7 +12,7 @@ Officially: *OpenAQ is a non-profit organization on a mission to empower people 
 
 ![OpenAQ logo](https://i.imgur.com/Kgw9ztB.png)
 
-### Fast forward to 2021.
+### Fast forward to 2021
 
 Now that I have a couple years of Developer Relations experience under my belt, I have a few ideas for how I contribute to the open source OpenAQ platform as a community member by making it more accessible to developers worldwide.
 
@@ -48,7 +48,7 @@ By default, the API response will be a JSON object. You can append `&format=csv`
 
 The API response contains a block for every measurement that matches your criteria in the OpenAQ database.
 
-| Filter        | Value           |
+| Field        | Value           |
 | ------------- |:-------------:|
 | location      | Karve Road, Pune - MPCB	 |
 | city, country      | Pune, IN      |
