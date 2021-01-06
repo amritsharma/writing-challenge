@@ -12,22 +12,22 @@ Officially: *OpenAQ is a non-profit organization on a mission to empower people 
 
 ![OpenAQ logo](https://i.imgur.com/Kgw9ztB.png)
 
-#### Fast forward to 2021.
+### Fast forward to 2021.
 
 Now that I have a couple years of Developer Relations experience under my belt, I have a few ideas for how I contribute to the open source OpenAQ platform as a community member by making it more accessible to developers worldwide.
 
 This article is the first step in that journey.
 
-#### One Small Step
+### One Small Step
 
 A frequently asked question on the OpenAQ slack channel is: **"How can I get last week's air quality data for my city from OpenAQ?"**
 
-##### 1. Non-technical Approach
+#### 1. Non-technical Approach
 If this is new to OpenAQ or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
 
 ![OpenAQ GUI by Dolugen](https://i.imgur.com/ojykyQi.png)
 
-##### 2. Overview 
+#### 2. Overview 
 The [`/measurements`](https://docs.openaq.org/#api-Measurements-GetV1Measurements) endpoint in the OpenAQ API is designed for you to get air quality data for any country, city or specific air quality monitor within a date range, and other filtering criteria.
 
 For example: This is the what the API call to get PM2.5 pollutant data for the first 5 days of 2021 from all air quality monitoring stations in Pune, India looks like: https://api.openaq.org/v1/measurements?country=IN&city=Pune&parameter=pm25&date_from=2021-01-01&date_to=2021-01-05
@@ -41,10 +41,10 @@ For example: This is the what the API call to get PM2.5 pollutant data for the f
 | date_to | 2021-01-05      |    No |
 
 
-##### 3. Export as CSV or JSON
+#### 3. Export as CSV or JSON
 By default, the API response will be a JSON object. You can append `&format=csv` to the API call.
 
-##### 4. Understanding the API Response 
+#### 4. Understanding the API Response 
 
 The API response contains a block for every measurement that matches your criteria in the OpenAQ database.
 
@@ -60,4 +60,4 @@ The API response contains a block for every measurement that matches your criter
 
 What does this block tell us? The air quality station at `Kavre Road, Pune - MPCB` in Pune, India recorded PM2.5 levels at 45.6µg/m³ on Jan 2, 2021 10:45am. This station on Kavre Road is at `18.5011743, 73.8165527` coordinates.
 
-
+~
