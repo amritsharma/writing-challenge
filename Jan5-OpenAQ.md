@@ -25,16 +25,26 @@ A frequently asked question on the OpenAQ slack channel is: **"How can I get las
 ##### 1. Non-technical Approach
 If this is new to OpenAQ or you are non-technical, I recommend using [@dolugen’s website](https://dolugen.github.io/openaq-browser/#/measurements). Once you’re happy with your city/date/other selectors, then you can look at the AQ data as a table, export as CSV or even copy and paste the full URL at the top of the page for future API calls.
 
-For example: This is the what the API call to get PM2.5 data for the first 5 days of 2020 in Kathmandu, Nepal looks like:  https://api.openaq.org/v1/measurements?country=NP&city=Kathmandu&parameter=pm25&date_from=2020-01-01&date_to=2020-12-05
-
+![OpenAQ GUI by Dolugen](https://i.imgur.com/ojykyQi.png)
 
 ##### 2. Overview 
-You can use the `/measurements` API endpoint to get air quality data for any country/city/location in a date range, along with several other selectors as well.
+The [`/measurements`](https://docs.openaq.org/#api-Measurements-GetV1Measurements) endpoint in the OpenAQ API is designed for you to get air quality data for any country, city or specific air quality monitor within a date range, and other filtering criteria.
 
-##### 3. Three 
-Insert text here.
+For example: This is the what the API call to get PM2.5 pollutant data for the first 5 days of 2021 from all air quality monitoring stations in Pune, India looks like: https://api.openaq.org/v1/measurements?country=IN&city=Pune&parameter=pm25&date_from=2021-01-01&date_to=2021-01-05
 
-##### 4. Three 
+| Filter        | Value           | Required  |
+| ------------- |:-------------:| -----:|
+| country      | IN | No |
+| city      | Pune      |   No |
+| parameter | pm25      |    No |
+| date_from | 2021-01-01      |    No |
+| date_to | 2021-01-05      |    No |
+
+
+##### 3. Export as CSV or JSON
+By default, the API response will be a JSON object. You can append `&format=csv` to the API call.
+
+##### 4. Understanding the API Response 
 Insert text here.
 
 ##### 5. Three 
