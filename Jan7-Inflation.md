@@ -29,69 +29,35 @@ Inflation, intuitively, is when it costs more money to buy something today than 
 
 Oh boy. Well, the official metric for measuring inflation is the CPI - it stand for the Consumer Price Index. It's designed to be the one metric that we supposed to consider the truth about inflation. But... well, it's not perfect.
 
-Let's take a closer look.
+Any inflation index takes a "basket of good" and whether they're more or less expensive now v/s before.
 
-#### 1) CPI 
-Whether through CPI (consumer price index, but without food and energy) or the Chapwood Index?
-Movie tickets
-College
-Healthcare 
-Food
-Rent
-House
-Porque?
+A common criticism of the CPI is that it undershoots inflation because it doesn't focus on the essential and most frequently goods that households typically spend money on. By tracking the change in prices of 80,000+ goods, the CPI distorts the inflation rate by diminishing the drastric rise in some goods.
 
-CPI says inflation is < 2%.
+CPI says inflation is < 2%. 
 
-for a basket of good and services.
+Meanwhile, the Chapwood Index uses an alternate basket of goods by focusing on the top 500 items on which Americans spend their after-tax dollars.
 
-What's in the basket?
-* ..
-* ..
+![Chapwood](https://i.imgur.com/x2rVUyX.png)
 
-Wait a minute, that's it? 
+The Chapwood Index also recognizes that prices can vary drastrically depending on where you live. That's why it gathers and reports data for the 50 major cities in the States. 
 
-How about A, B, C, D, ...
+![Chapwood Top 10 cities](https://i.imgur.com/kjEuHSG.png)
 
-Nope. The Consumer Price Index doesn't look at those.
-
-Well, duh! No wonder the inflation rate according to the CPI is so low. If you don't include many of the essential expenses a family has to incur every month, how are you supposed to get an inflation rate that reflects the reality of rising prices for a typical household?
-
-
-#### 2) Chapwood Index
-Sorry economists, when everyday people think of inflation we don't think of the CPI. Dr. Economist says inflation is sub 2% so I must be imagining the rising prices and my paycheck not going as far anymore. 
-
-Intuitively we think of inflation  of it in these terms, not CPI. 
-
-That's where the Chapwood Index comes in!
-
-CPI says inflation is < 2%.
-
-for a basket of good and services in a specific city.
-
-What's in the basket?
-* ..
-* ..
-
-Wait a minute, that's it? 
-
-How about A, B, C, D, ...
-
-INSERT CHART HERE.
+According to this index, inflation is between 8-12% in the major cities across the United States.
 
 But should we really be measuring inflation this way? (Maybe.) 
 
-Is the Chapwood Index misleading? It's not a subjective equation. It performs a similar calculation to the CPI inflation rate, except it just defines the "basket of good and services" differently. 
-
-As American philosopher, Lil Weezy, once said: "Men lie. Women lie. Numbers don't lie." Who would have thought? Numbers lie too.
+Is the Chapwood Index misleading? It's not a subjective equation. It performs a similar calculation to the CPI inflation rate, except it just defines the "basket of good" differently. 
 
 
 ### The nuances of inflation 
-It's complicated. Shrinkflation? Big Macs...
+Inflation is complicated. We haven't even talked about shrinkflation, which is when the price of an item doesn't rise but you get less of it for the same price.  Big Macs are a famous example of shrinkflation.
 
-Inflation is a sign of a healthy and growing economy. Quality of life rising. Wages rising. Cost of producing good rises. Prices rise. Money is changing hands often. One person's spending in another person's income. Economy is humming along. The virtuous cycle of inflation.
+Inflation isn't necessary bad or harmful to an economy. Well, excessive inflation or any amount of deflation is certainly harmful.
 
-Hyperinflation is bad. 
+Inflation (rising prices) is often a sign of a healthy and growing economy. When the economy is growing, the quality of life is rising. Employees demand and get higher wages as companies try to serve this market. As wages rise, so do the price tag on the goods. Voila. We have inflation. This is healthy because money is changing hands often. One person's spending in another person's income. The economy is humming along.
+
+"Men lie. Women lie. Numbers don't lie." - Lil Wayne.
 
 ...
 
