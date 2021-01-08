@@ -1,6 +1,6 @@
 ## What is Inflation, Anyway?
 
-*The headline is a throwback to 1994 when the Today Show hosts wondered [What is the internet, anyway?](https://www.youtube.com/watch?v=95-yZ-31j9A).*
+*The headline is a throwback to 1994 when the Today Show hosts wondered "[what is the internet, anyway?](https://www.youtube.com/watch?v=95-yZ-31j9A)".*
 
 It's quite surprising that such a foundational topic in economics can be so mysterious. Inflation illicits strong emotions and can get people riled up -- not just on twitter.
 
