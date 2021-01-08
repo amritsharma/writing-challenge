@@ -8,7 +8,9 @@ Why don't we have a common understanding of what inflation is, how it should be 
 
 Is that really too much to ask?
 
-*sigh* It might be.
+It might be.
+
+Disclaimer: This isn't an economics lesson. I am giving my writing muscles a workout here - that's it. If you're 
 
 ### So, what is inflation?
 - more money changes fewer goods
