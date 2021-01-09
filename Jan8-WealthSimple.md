@@ -4,9 +4,9 @@ Two question:
 (1) Theme: Standard, Halal and Socially Responsible Investing.
 (2) Risk level: 10 (Growth)
 
-#### Equities (90%)
+### Equities (90%)
 
-##### U.S. equities. 22.5%. $VTI. [Vanguard Total Stock Market ETF](https://investor.vanguard.com/etf/profile/overview/vti).
+#### U.S. equities. 22.5%. $VTI. [Vanguard Total Stock Market ETF](https://investor.vanguard.com/etf/profile/overview/vti).
 Expense ratio: 0.03%.
 
 Seeks to track the performance of the CRSP US Total Market Index.
@@ -17,7 +17,7 @@ Low expenses minimize net tracking error.
 
 ![VTI](https://i.imgur.com/NVJDTlO.png)
 
-##### International equities. 22.5%. $XEF. [BlackRock Canada iShares Core MSCI EAFE IMI Index ETF](https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf).
+#### International equities. 22.5%. $XEF. [BlackRock Canada iShares Core MSCI EAFE IMI Index ETF](https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf).
 Expense ratio: 0.22%.
 
 1. International portfolio diversification
@@ -39,7 +39,7 @@ The iShares MSCI Emerging Markets Min Vol Factor ETF seeks to track the investme
 Top 10 holdings:
 ![EEMV](https://i.imgur.com/oU1QM00.png)
 
-##### Canadian equities: 11.3%. $XIC. BlackRock iShares Core S&P/TSX Capped Composite Index ETF.
+#### Canadian equities: 11.3%. $XIC. BlackRock iShares Core S&P/TSX Capped Composite Index ETF.
 
 1. Own the entire Canadian stock market
 2. Low cost
@@ -50,10 +50,17 @@ Top 10 holdings:
 Except for Shopfiy and Barrick Gold, <insert barfing emoji here>.
 ...
 
-##### Global equities: 11.3%. ACWV. BTC iShares Edge MSCI Min Vol Global ETF.
-...
+#### Global equities: 11.3%. ACWV. BTC iShares Edge MSCI Min Vol Global ETF.
+1. Exposure to global stocks with potentially less risk
+2. Historically, minimum volatility strategies have declined less than the market during market downturns1
+3. Seek to minimize the market's peaks and valleys
 
-##### US equities (CAD-hedged): 5.5%. VUS. Vanguard U.S. Total Market Index ETF (CAD-hedged)
+The iShares MSCI Global Min Vol Factor ETF seeks to track the investment results of an index composed of developed and emerging market equities that, in the aggregate, have lower volatility characteristics relative to the broader developed and emerging equity markets.
+
+
+![ACWV](https://i.imgur.com/FwubqUq.png)
+
+#### US equities (CAD-hedged): 5.5%. VUS. Vanguard U.S. Total Market Index ETF (CAD-hedged)
 ...
 
 #### Fixed income & Gold (10%)
