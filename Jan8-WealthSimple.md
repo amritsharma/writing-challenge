@@ -1,6 +1,6 @@
 ## What's Really In My Wealth Simple TFSA?
 
-It's a low bar but WealthSimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's exactly what I had done so far. 
+It's a low bar but Wealthsimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's exactly what I had done so far. 
 
 While setting up a TFSA account, all you have to do is answer a couple questions. It's simple - maybe too simple. 
 
@@ -10,7 +10,7 @@ While setting up a TFSA account, all you have to do is answer a couple questions
 
 I presume, like any rational actor several decades away from retirement who lives in an era of low interest rates, I selected Standard and 10 to maximize my returns in exchange for higher risk.
 
-Until today I never took the time to look beyond the pretty fonts and pastel colors on WealthSimple to evaluate the specific ETFs that my money was being invested into.
+Until today I never took the time to look beyond the pretty fonts and pastel colors on Wealthsimple to evaluate the specific ETFs that my money was being invested into.
 
 ### Equities (90%)
 
