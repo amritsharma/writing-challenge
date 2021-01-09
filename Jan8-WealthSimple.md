@@ -1,8 +1,15 @@
-## What's Really In My WealthSimple TFSA?
+## What's Really In My Wealth Simple TFSA?
 
-Two question:
+It's a low bar but WealthSimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's what I have done so far. 
+
+All you have to do is answer a couple questions. It's simple - maybe too simple. 
+
 (1) Theme: Standard, Halal and Socially Responsible Investing.
-(2) Risk level: 10 (Growth)
+(2) Risk level: 1-10.
+
+Like most rational actors several decades away from retirement living in an era of low interest rates, I selected Standard and 10.
+
+Until today I never looked beyond the the pretty fonts and pastel colors on WealthSimple to evaluate the specific ETFs that my money was being invested into.
 
 ### Equities (90%)
 
@@ -82,6 +89,9 @@ Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent 
 
 The SPDR® Gold MiniShares (NYSE Arca: GLDM) offers investors one of the lowest available expense ratios for a U.S. listed physically gold-backed ETF. GLDM may be beneficial to investors who intend to have long-term exposure to gold.
 
+Questions:
+1. What happens to the expense ratios of these ETFs after 2022 or 2023? Lower fees in the contract until then. 0.2 can reset to 0.7%.
+2. Why bonds? 7% in bonds? Jeez.
+3. ...
 
-
-
+-x-
