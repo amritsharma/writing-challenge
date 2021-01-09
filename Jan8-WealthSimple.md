@@ -39,7 +39,8 @@ The iShares MSCI Emerging Markets Min Vol Factor ETF seeks to track the investme
 Top 10 holdings:
 ![EEMV](https://i.imgur.com/oU1QM00.png)
 
-#### Canadian equities: 11.3%. $XIC. BlackRock iShares Core S&P/TSX Capped Composite Index ETF.
+#### Canadian equities: 11.3%. $XIC. [BlackRock iShares Core S&P/TSX Capped Composite Index ETF](https://www.blackrock.com/ca/investors/en/products/239837/ishares-sptsx-capped-composite-index-etf).
+Expense ratio: 0.06
 
 1. Own the entire Canadian stock market
 2. Low cost
@@ -50,7 +51,9 @@ Top 10 holdings:
 Except for Shopfiy and Barrick Gold, <insert barfing emoji here>.
 ...
 
-#### Global equities: 11.3%. ACWV. BTC iShares Edge MSCI Min Vol Global ETF.
+#### Global equities: 11.3%. ACWV. [BTC iShares Edge MSCI Min Vol Global ETF](https://www.ishares.com/us/products/239605/ishares-msci-all-country-world-minimum-volatility-etf).
+Expense ratio: 0.20%.
+
 1. Exposure to global stocks with potentially less risk
 2. Historically, minimum volatility strategies have declined less than the market during market downturns1
 3. Seek to minimize the market's peaks and valleys
@@ -60,12 +63,25 @@ The iShares MSCI Global Min Vol Factor ETF seeks to track the investment results
 
 ![ACWV](https://i.imgur.com/FwubqUq.png)
 
-#### US equities (CAD-hedged): 5.5%. VUS. Vanguard U.S. Total Market Index ETF (CAD-hedged)
-...
+#### US equities (CAD-hedged): 5.5%. $VUS. [Vanguard U.S. Total Market Index ETF (CAD-hedged)](https://www.vanguardcanada.ca/advisors/products/en/detail/etf/9551/equity)
+Expense ratio: 0.16%
 
-#### Fixed income & Gold (10%)
+Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent reasonably possible and before fees and expenses, the performance of a broad U.S. equity index that measures the investment returns of primarily large-capitalization U.S. stocks, which index is hedged to the Canadian dollar. Currently, this Vanguard ETF seeks to track the CRSP US Total Market Index (CAD-hedged) (or any successor thereto). It invests directly or indirectly primarily in stocks of U.S. companies and uses derivative instruments to seek to hedge the U.S. dollar exposure of the securities included in the CRSP US Total Market Index to the Canadian dollar.
 
-Government bonds: 7.5%. ZFL. BMO Long Federal Bond ETF.
+![VUS](https://i.imgur.com/3qWe7RY.png)
 
-Gold: 2.5%. GLDM. SPDR Gold MiniShares Trust
+
+
+### Fixed income & Gold (10%)
+
+#### Government bonds: 7.5%. $ZFL. BMO Long Federal Bond ETF.
+![ZFL](https://i.imgur.com/rsHveVW.png)
+
+
+#### Gold: 2.5%. $GLDM. [SPDR Gold MiniShares Trust](https://www.spdrgoldshares.com/gldm/)
+
+The SPDR® Gold MiniShares (NYSE Arca: GLDM) offers investors one of the lowest available expense ratios for a U.S. listed physically gold-backed ETF. GLDM may be beneficial to investors who intend to have long-term exposure to gold.
+
+
+
 
