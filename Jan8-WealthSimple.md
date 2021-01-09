@@ -1,15 +1,16 @@
 ## What's Really In My Wealth Simple TFSA?
 
-It's a low bar but WealthSimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's what I have done so far. 
+It's a low bar but WealthSimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's exactly what I had done so far. 
 
-All you have to do is answer a couple questions. It's simple - maybe too simple. 
+While setting up a TFSA account, all you have to do is answer a couple questions. It's simple - maybe too simple. 
 
 (1) Theme: Standard, Halal and Socially Responsible Investing.
+
 (2) Risk level: 1-10.
 
-Like most rational actors several decades away from retirement living in an era of low interest rates, I selected Standard and 10.
+I presume, like any rational actor several decades away from retirement who lives in an era of low interest rates, I selected Standard and 10 to maximize my returns in exchange for higher risk.
 
-Until today I never looked beyond the the pretty fonts and pastel colors on WealthSimple to evaluate the specific ETFs that my money was being invested into.
+Until today I never took the time to look beyond the pretty fonts and pastel colors on WealthSimple to evaluate the specific ETFs that my money was being invested into.
 
 ### Equities (90%)
 
@@ -76,8 +77,6 @@ Expense ratio: 0.16%
 Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent reasonably possible and before fees and expenses, the performance of a broad U.S. equity index that measures the investment returns of primarily large-capitalization U.S. stocks, which index is hedged to the Canadian dollar. Currently, this Vanguard ETF seeks to track the CRSP US Total Market Index (CAD-hedged) (or any successor thereto). It invests directly or indirectly primarily in stocks of U.S. companies and uses derivative instruments to seek to hedge the U.S. dollar exposure of the securities included in the CRSP US Total Market Index to the Canadian dollar.
 
 ![VUS](https://i.imgur.com/3qWe7RY.png)
-
-
 
 ### Fixed income & Gold (10%)
 
