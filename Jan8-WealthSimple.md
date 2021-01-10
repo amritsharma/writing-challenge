@@ -19,20 +19,14 @@ Wealthsimple has allocated 90% of my portolfio into equities and the rest in bon
 #### U.S. equities. 22.5%. $VTI. [Vanguard Total Stock Market ETF](https://investor.vanguard.com/etf/profile/overview/vti).
 Expense ratio: 0.03%.
 
-Seeks to track the performance of the CRSP US Total Market Index.
-Large-, mid-, and small-cap equity diversified across growth and value styles.
-Employs a passively managed, index-sampling strategy.
-The fund remains fully invested.
-Low expenses minimize net tracking error.
+This ETF is the fastest horse in the portfolio. It tracks the general moves of the US stock market and overweighs the largest companies which have had a great run recently. 5% of this portfolio is Apple. The top 10 holdings are mostly tech companies that are household names and pretty much run our lives now. Surprisingly Berkshire Hathaway and Johnson & Johnson are in there too. What makes this ETF most attractive is the exceptionally low fees. It's only 0.03%.
 
 ![VTI](https://i.imgur.com/NVJDTlO.png)
 
 #### International equities. 22.5%. $XEF. [BlackRock Canada iShares Core MSCI EAFE IMI Index ETF](https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf).
 Expense ratio: 0.22%.
 
-1. International portfolio diversification
-2. Low cost and simple way to own over 1500 stocks from Europe, Asia, and Australia
-3. Designed to be a long-term core holding
+Another 22.5% of my portfolio is in this international equities ETF. I was pleasantly surprised to see this. I had assumed that most of my money would be in US and Canadian companies only, but that's not the case. Nestle (Switzerland), ASML (Dutch telecom company), Toyota (Japan), Unilever (UK), SAP (Germany) and others make an appearance in the Top 10 of the holdings. 
 
 ![XEF](https://imgur.com/DTvyyuS.png)
 
