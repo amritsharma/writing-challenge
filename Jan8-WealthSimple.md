@@ -33,12 +33,7 @@ Another 22.5% of my portfolio is in this international equities ETF. I was pleas
 ##### 3) Emerging market equities: 16.9%. $EEMV. [BTC iShares Edge MSCI Min Vol Emerging Markets ETF](https://www.ishares.com/us/products/239641/ishares-msci-emerging-markets-minimum-volatility-etf).
 Expense ratio: 0.25%
 
-The iShares MSCI Emerging Markets Min Vol Factor ETF seeks to track the investment results of an index composed of emerging market equities that, in the aggregate, have lower volatility characteristics relative to the broader emerging equity markets.
-
-
-1. Exposure to emerging market stocks with potentially less risk
-2. Historically, EEMV has declined less than the market during market downturns1
-3. Consider EEMV for a core position in a portfolio
+This ETF holds a wide selection of companies in the emerging markets. As you can see in the list below, the companies here aren't sexy but are steady. Boring companies that have been around for a long time deserve a spot in a portfolio that one intends to buy and hold for decades. 
 
 Top 10 holdings:
 ![EEMV](https://i.imgur.com/oU1QM00.png)
@@ -46,23 +41,14 @@ Top 10 holdings:
 #### 4) Canadian equities: 11.3%. $XIC. [BlackRock iShares Core S&P/TSX Capped Composite Index ETF](https://www.blackrock.com/ca/investors/en/products/239837/ishares-sptsx-capped-composite-index-etf).
 Expense ratio: 0.06
 
-1. Own the entire Canadian stock market
-2. Low cost
-3. Designed to be a long-term core holding
+Oh Canada! Let's be honest. We should be counting our lucky stars everyday that Shopify is a Canadian company. If it wasn't for it, I would be upset that I have a piece of this ETF.
 
 ![XIC](https://i.imgur.com/vEfbQc3.png)
-
-Except for Shopfiy and Barrick Gold, <insert barfing emoji here>.
-...
 
 #### 5) Global equities: 11.3%. ACWV. [BTC iShares Edge MSCI Min Vol Global ETF](https://www.ishares.com/us/products/239605/ishares-msci-all-country-world-minimum-volatility-etf).
 Expense ratio: 0.20%.
 
-1. Exposure to global stocks with potentially less risk
-2. Historically, minimum volatility strategies have declined less than the market during market downturns1
-3. Seek to minimize the market's peaks and valleys
-
-The iShares MSCI Global Min Vol Factor ETF seeks to track the investment results of an index composed of developed and emerging market equities that, in the aggregate, have lower volatility characteristics relative to the broader developed and emerging equity markets.
+This ETF is similar to the International Equities ETF above. It contains a diverse array of companies across many countries and offers key diversification with low fees that one craves in a retirement portfolio. 
 
 
 ![ACWV](https://i.imgur.com/FwubqUq.png)
@@ -70,7 +56,7 @@ The iShares MSCI Global Min Vol Factor ETF seeks to track the investment results
 #### 6) US equities (CAD-hedged): 5.5%. $VUS. [Vanguard U.S. Total Market Index ETF (CAD-hedged)](https://www.vanguardcanada.ca/advisors/products/en/detail/etf/9551/equity)
 Expense ratio: 0.16%
 
-Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent reasonably possible and before fees and expenses, the performance of a broad U.S. equity index that measures the investment returns of primarily large-capitalization U.S. stocks, which index is hedged to the Canadian dollar. Currently, this Vanguard ETF seeks to track the CRSP US Total Market Index (CAD-hedged) (or any successor thereto). It invests directly or indirectly primarily in stocks of U.S. companies and uses derivative instruments to seek to hedge the U.S. dollar exposure of the securities included in the CRSP US Total Market Index to the Canadian dollar.
+This ETF with American equities is identical to the $VIS above. Tech companies that have dominated the markets in past couple decades make up the majority of this ETF as well.
 
 ![VUS](https://i.imgur.com/3qWe7RY.png)
 
@@ -79,14 +65,16 @@ Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent 
 #### 1) Government bonds: 7.5%. $ZFL. BMO Long Federal Bond ETF.
 ![ZFL](https://i.imgur.com/rsHveVW.png)
 
+Bonds, Government bonds! 7% of the portfolio in bonds seems excessive, but I'm biased because we've seen equities rally relentlessly in recent memory and it's hard to imagine why a dollar in bonds wouldn't be better suited in a stock instead.
+
 
 #### 2) Gold: 2.5%. $GLDM. [SPDR Gold MiniShares Trust](https://www.spdrgoldshares.com/gldm/)
 
-The SPDR® Gold MiniShares (NYSE Arca: GLDM) offers investors one of the lowest available expense ratios for a U.S. listed physically gold-backed ETF. GLDM may be beneficial to investors who intend to have long-term exposure to gold.
+Gold is a relatively new addition to the Wealthsimple TFSA mix. Low interest rates, loose monetary policies and dwindling purchasing power of fiat currencies worldwide make gold an attractive and necessary part of any diversified portfolio.
+
 
 Questions:
 1. What happens to the expense ratios of these ETFs after 2022 or 2023? Lower fees in the contract until then. 0.2 can reset to 0.7%.
-2. Why bonds? 7% in bonds? Jeez.
-3. ...
+2. ...
 
 -x-
