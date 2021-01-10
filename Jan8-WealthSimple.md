@@ -1,16 +1,18 @@
-## What's Really In My Wealth Simple TFSA?
+## What's Really In My Wealthsimple TFSA?
 
-It's a low bar but Wealthsimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want to "set it and forget it". That's exactly what I had done so far. 
+Wealthsimple in Canada is a no-brainer. It's a low bar but Wealthsimple offers the most millennial-friendly financial products in Canada. Their low fees, thoughtful UX and clever marketing make it the only choice for Canadians who want "set it and forget it" investments. That made it an attractive option for TFSAs, RRSPs and other accounts. I was in.
 
 While setting up a TFSA account, all you have to do is answer a couple questions. It's simple - maybe too simple. 
 
-(1) Theme: Standard, Halal and Socially Responsible Investing.
+(1) Pick a theme: Standard, Halal or Socially Responsible Investing.
 
 (2) Risk level: 1-10.
 
-I presume, like any rational actor several decades away from retirement who lives in an era of low interest rates, I selected Standard and 10 to maximize my returns in exchange for higher risk.
+I presume like any rational actor who is several decades away from retirement, I selected *Standard* and *10* to maximize my returns in exchange for higher risk.
 
-Until today I never took the time to look beyond the pretty fonts and pastel colors on Wealthsimple to evaluate the specific ETFs that my money was being invested into.
+Until today I never took the time to look beyond the pretty fonts and pastel colors on Wealthsimple to evaluate the specific ETFs that my money was being invested into. This is what I found.
+
+Wealthsimple has allocated 90% of my portolfio into equities and the rest in bonds. 
 
 ### Equities (90%)
 
