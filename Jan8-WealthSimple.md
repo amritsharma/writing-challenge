@@ -16,21 +16,21 @@ Wealthsimple has allocated 90% of my portolfio into equities and the rest in bon
 
 ### Equities (90%)
 
-#### U.S. equities. 22.5%. $VTI. [Vanguard Total Stock Market ETF](https://investor.vanguard.com/etf/profile/overview/vti).
+#### 1) U.S. equities. 22.5%. $VTI. [Vanguard Total Stock Market ETF](https://investor.vanguard.com/etf/profile/overview/vti).
 Expense ratio: 0.03%.
 
 This ETF is the fastest horse in the portfolio. It tracks the general moves of the US stock market and overweighs the largest companies which have had a great run recently. 5% of this portfolio is Apple. The top 10 holdings are mostly tech companies that are household names and pretty much run our lives now. Surprisingly Berkshire Hathaway and Johnson & Johnson are in there too. What makes this ETF most attractive is the exceptionally low fees. It's only 0.03%.
 
 ![VTI](https://i.imgur.com/NVJDTlO.png)
 
-#### International equities. 22.5%. $XEF. [BlackRock Canada iShares Core MSCI EAFE IMI Index ETF](https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf).
+#### 2) International equities. 22.5%. $XEF. [BlackRock Canada iShares Core MSCI EAFE IMI Index ETF](https://www.blackrock.com/ca/investors/en/products/251421/ishares-msci-eafe-imi-index-etf).
 Expense ratio: 0.22%.
 
 Another 22.5% of my portfolio is in this international equities ETF. I was pleasantly surprised to see this. I had assumed that most of my money would be in US and Canadian companies only, but that's not the case. Nestle (Switzerland), ASML (Dutch telecom company), Toyota (Japan), Unilever (UK), SAP (Germany) and others make an appearance in the Top 10 of the holdings. 
 
 ![XEF](https://imgur.com/DTvyyuS.png)
 
-##### Emerging market equities: 16.9%. $EEMV. [BTC iShares Edge MSCI Min Vol Emerging Markets ETF](https://www.ishares.com/us/products/239641/ishares-msci-emerging-markets-minimum-volatility-etf).
+##### 3) Emerging market equities: 16.9%. $EEMV. [BTC iShares Edge MSCI Min Vol Emerging Markets ETF](https://www.ishares.com/us/products/239641/ishares-msci-emerging-markets-minimum-volatility-etf).
 Expense ratio: 0.25%
 
 The iShares MSCI Emerging Markets Min Vol Factor ETF seeks to track the investment results of an index composed of emerging market equities that, in the aggregate, have lower volatility characteristics relative to the broader emerging equity markets.
@@ -43,7 +43,7 @@ The iShares MSCI Emerging Markets Min Vol Factor ETF seeks to track the investme
 Top 10 holdings:
 ![EEMV](https://i.imgur.com/oU1QM00.png)
 
-#### Canadian equities: 11.3%. $XIC. [BlackRock iShares Core S&P/TSX Capped Composite Index ETF](https://www.blackrock.com/ca/investors/en/products/239837/ishares-sptsx-capped-composite-index-etf).
+#### 4) Canadian equities: 11.3%. $XIC. [BlackRock iShares Core S&P/TSX Capped Composite Index ETF](https://www.blackrock.com/ca/investors/en/products/239837/ishares-sptsx-capped-composite-index-etf).
 Expense ratio: 0.06
 
 1. Own the entire Canadian stock market
@@ -55,7 +55,7 @@ Expense ratio: 0.06
 Except for Shopfiy and Barrick Gold, <insert barfing emoji here>.
 ...
 
-#### Global equities: 11.3%. ACWV. [BTC iShares Edge MSCI Min Vol Global ETF](https://www.ishares.com/us/products/239605/ishares-msci-all-country-world-minimum-volatility-etf).
+#### 5) Global equities: 11.3%. ACWV. [BTC iShares Edge MSCI Min Vol Global ETF](https://www.ishares.com/us/products/239605/ishares-msci-all-country-world-minimum-volatility-etf).
 Expense ratio: 0.20%.
 
 1. Exposure to global stocks with potentially less risk
@@ -67,7 +67,7 @@ The iShares MSCI Global Min Vol Factor ETF seeks to track the investment results
 
 ![ACWV](https://i.imgur.com/FwubqUq.png)
 
-#### US equities (CAD-hedged): 5.5%. $VUS. [Vanguard U.S. Total Market Index ETF (CAD-hedged)](https://www.vanguardcanada.ca/advisors/products/en/detail/etf/9551/equity)
+#### 6) US equities (CAD-hedged): 5.5%. $VUS. [Vanguard U.S. Total Market Index ETF (CAD-hedged)](https://www.vanguardcanada.ca/advisors/products/en/detail/etf/9551/equity)
 Expense ratio: 0.16%
 
 Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent reasonably possible and before fees and expenses, the performance of a broad U.S. equity index that measures the investment returns of primarily large-capitalization U.S. stocks, which index is hedged to the Canadian dollar. Currently, this Vanguard ETF seeks to track the CRSP US Total Market Index (CAD-hedged) (or any successor thereto). It invests directly or indirectly primarily in stocks of U.S. companies and uses derivative instruments to seek to hedge the U.S. dollar exposure of the securities included in the CRSP US Total Market Index to the Canadian dollar.
@@ -76,11 +76,11 @@ Vanguard U.S. Total Market Index ETF (CAD-hedged) seeks to track, to the extent 
 
 ### Fixed income & Gold (10%)
 
-#### Government bonds: 7.5%. $ZFL. BMO Long Federal Bond ETF.
+#### 1) Government bonds: 7.5%. $ZFL. BMO Long Federal Bond ETF.
 ![ZFL](https://i.imgur.com/rsHveVW.png)
 
 
-#### Gold: 2.5%. $GLDM. [SPDR Gold MiniShares Trust](https://www.spdrgoldshares.com/gldm/)
+#### 2) Gold: 2.5%. $GLDM. [SPDR Gold MiniShares Trust](https://www.spdrgoldshares.com/gldm/)
 
 The SPDR® Gold MiniShares (NYSE Arca: GLDM) offers investors one of the lowest available expense ratios for a U.S. listed physically gold-backed ETF. GLDM may be beneficial to investors who intend to have long-term exposure to gold.
 
