@@ -1,4 +1,6 @@
-## Part 1: My Perception
+## Canadian Postal Codes
+
+### Part 1: My Perception
 
 It's embarrassing but I must confess - I have never once been able to recall my postal code from memory when I need it! Maybe it's because by the time I get close to memorizing what it is, I end up moving to a new place. Ugh. 
 
