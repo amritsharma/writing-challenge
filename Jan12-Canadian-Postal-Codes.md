@@ -1,5 +1,3 @@
-![Postcal codes](https://imgur.com/DZWgIC8.png)
-
 ## Part 1: My Perception
 
 It's embarrassing but I must confess - I have never once been able to recall my postal code from memory when I need it! Maybe it's because by the time I get close to memorizing what it is, I end up moving to a new place. Ugh. 
@@ -14,10 +12,12 @@ In the United States, ZIP codes are 5-digit numbers that generally increase from
 
 ### Part 2: The Reality
 
-Be right back. Let me go google it.
+![Postcal codes](https://imgur.com/DZWgIC8.png)
 
+![Letters](https://i.imgur.com/iDMYyJZ.png)
 
+Fun fact: Did you know that the UK, Ireland and the Netherlands use an alphanumeric postal code system as well?
 
-...
+Less than fun fact: There are 876,445 postal codes in Canada. 
 
-https://en.wikipedia.org/wiki/Postal_codes_in_Canada
+Honestly, digging into the postal codes was quite underwhelming, I don't know what I expected here. The letters and numbers aren't random. The characters from left to right point to an increasingly accurate representation of what that location.
