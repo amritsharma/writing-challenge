@@ -20,6 +20,6 @@ In the United States, ZIP codes are 5-digit numbers that generally increase from
 
 Fun fact: Did you know that the UK, Ireland and the Netherlands use an alphanumeric postal code system as well?
 
-Less than fun fact: There are 876,445 postal codes in Canada. 
+Not-so-fun fact: There are 876,445 postal codes in Canada. 
 
 Honestly, digging into the postal codes was quite underwhelming, I don't know what I expected here. The letters and numbers aren't random. The characters from left to right point to an increasingly accurate representation of what that location.
