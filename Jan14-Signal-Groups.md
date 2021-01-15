@@ -36,18 +36,25 @@ For every group you have on Whatsapp, we're going to follow these simple steps t
 ![Ellipses](https://imgur.com/8O4uNri.png)
 
 
-**Step 4.** Tap on the toggle to enable Group Link. Then, tap "Share" to copy the Group Link. You have the option to approve everyone who tries to join this Signal Group using this URL. If you're only sharing this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members using the "Approve new members" toggle.
+**Step 4.** Tap on the toggle to enable Group Link. Then, tap "Share" to copy the Group Link. 
+
+You have the option to approve everyone who tries to join this Signal Group with the "Approve new members" toggle. However, if you're only sharing link this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members.
 
 ![Share](https://imgur.com/QXhK5HD.png)
 
 
-**Step 5.** Paste that Group Link with your existing Whatsapp Group and watch them stream into your newly created Signal Group to continue the conversations in a truly end-to-end encrypted, privacy-first, open-source messaging platform.
+**Step 5.** Your Group is now set up on Signal. It's time to share it with your existing group on Whatsapp. 
+
+Simply paste that Group Link in that Whatsapp Group and watch them stream into your newly created Signal Group to continue the conversations in a truly end-to-end encrypted, privacy-first, open-source messaging platform.
 
 ![Privacy](https://imgur.com/IjnzZkr.png)
 
-**Step 6.** When everyone has successfully moved from your group in Whatsapp to Signal turn off `Group Link` by toggling it to off.   
+**Step 6.** When everyone has successfully moved from your group in Whatsapp to Signal turn off `Group Link` by toggling it to off.
 
 ![Share](https://imgur.com/QXhK5HD.png)
 
 
 That's it. 
+
+
+Welcome to Signal.
