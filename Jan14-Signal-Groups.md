@@ -12,11 +12,11 @@ Ugh.
 
 That's network effects.
 
-A messaging app is only truly useful if all your contacts (and conversations) make the jump over with you to Signal.
+A messaging app is only truly useful if all your contacts (and conversations) make the leap with you over to Signal.
 
 ### Group Chats
 
-A popular feature within Whatsapp is the Group Chats. You can easily stay in touch a few friends, colleagues, family members, old buddies from uni or your *gulp* soon-to-be in-laws. It's not unique to Whatsapp and isn't innovative by any means but is very handy -- especially in a global pandemic!
+A popular feature within Whatsapp is the Group Chats. You can easily stay in touch with a few friends, colleagues, family members, old buddies from uni or your *gulp* soon-to-be in-laws. It's not unique to Whatsapp and isn't innovative by any means but is very handy -- especially in a global pandemic!
 
 For every group you have on Whatsapp, we're going to follow these simple steps to move them over to Signal. These steps are for Android, but a similar workflow applies to iOS devices as well.
 
@@ -49,7 +49,7 @@ Simply paste that Group Link in that Whatsapp Group and watch them stream into y
 
 ![Privacy](https://imgur.com/IjnzZkr.png)
 
-**Step 6.** When everyone has successfully moved from your group in Whatsapp to Signal turn off `Group Link` by toggling it to off.
+**Step 6.** When everyone has successfully moved from your group in Whatsapp to Signal turn off `Group Link` by toggling it off.
 
 ![Share](https://imgur.com/QXhK5HD.png)
 
