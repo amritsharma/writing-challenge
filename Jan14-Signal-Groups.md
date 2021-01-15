@@ -30,18 +30,17 @@ For every group you have on Whatsapp, we're going to follow these simple steps t
 ![Name this group](https://imgur.com/HXy2S4D.png)
 
 
-**Step 3.** Enable "Group Link" by clicking on ellipses and "Group Settings". Then 
+**Step 3.** Enable "Group Link" by clicking on ellipses and "Group Settings". You have the option to approve everyone who tries to join this Signal Group using this URL. If you're only sharing this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members. 
 
-![Skip](https://imgur.com/X2wTMDl.png)
-![Ellipses](https://imgur.com/Rj2uyi9)
-
-
-**Step 4.** Grab URL and adjust for privacy.
-![Skip](https://imgur.com/X2wTMDl.png)
+![Group](https://imgur.com/Rj2uyi9.png)
+![Ellipses](https://imgur.com/8O4uNri.png)
 
 
-**Step 5.** Share URL on Whatsapp group. 
+**Step 4.** Tap "Share URL" to copy the Group Link and share it with your existing Whatsapp Group.
+
+![Share](https://imgur.com/QXhK5HD.png)
 
 
-**Step 6.** Turn off sharing once everyone has  
+**Step 5.** When everyone has successfully moved from your group in Whatsapp to Signal turn off `Group Link` by toggling it to off.   
 
+That's it. 
