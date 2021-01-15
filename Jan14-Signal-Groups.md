@@ -21,7 +21,7 @@ A popular feature within Whatsapp is the Group Chats. You can easily stay in tou
 For every group you have on Whatsapp, we're going to follow these simple steps to move them over to Signal. These steps are for Android, but a similar workflow applies to iOS devices as well.
 
 
-**Step 1.** Create New Group on Signal. Tap on the ellipses and select "New group" from the menu.  
+**Step 1.** Create New Group on Signal by tapping on the ellipses on the home page and selecting "New group" from the menu.
 
 
 **Step 2.** Tap "Skip" on the add contacts screen. Choose a name for your group on the "Name this group" screen.
@@ -30,13 +30,15 @@ For every group you have on Whatsapp, we're going to follow these simple steps t
 ![Name this group](https://imgur.com/HXy2S4D.png)
 
 
-**Step 3.** Enable "Group Link" by clicking on ellipses and "Group Settings". You have the option to approve everyone who tries to join this Signal Group using this URL. If you're only sharing this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members. 
+**Step 3.** Tap on the ellipses and select "Group Settings" then tap on "Group Link". You have the option to approve everyone who tries to join this Signal Group using this URL. If you're only sharing this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members. 
 
 ![Group](https://imgur.com/Rj2uyi9.png)
 ![Ellipses](https://imgur.com/8O4uNri.png)
 
 
-**Step 4.** Tap "Share URL" to copy the Group Link and share it with your existing Whatsapp Group.
+**Step 4.** Tap "Share" to copy the Group Link. You have the option to approve everyone who tries to join this Signal Group using this URL. If you're only sharing this with your existing contacts in a specific Whatsapp Group, there is no need to approve new group members.  
+
+and share it with your existing Whatsapp Group.
 
 ![Share](https://imgur.com/QXhK5HD.png)
 
