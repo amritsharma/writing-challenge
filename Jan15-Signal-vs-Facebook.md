@@ -1,7 +1,10 @@
-Let's go.
+In the past few days tens of millions of people worldwise have scrambled away from Whatsapp. Spooked by the announcement of a new data sharing policy between Whatsapp and it's less-than-honorable parent company, Facebook, sent them rushing for the door. Whatapp is the most popular messaging app in the world. More than 2 billion people use Whatsapp - many quite religiously. It's not only replaced SMS texting, but in many cases, email as well. 
 
-Intro: 
-<Data about how many people are joining Signal.> Signal is down. Users are patient and showering them with encouragement. That's usual, if not unprecedanted.
+The exodus from Whatsapp was accelerated when Dogecoin CEO, Elon Musk, tweeted "Use Signal".
+
+![Elon](https://imgur.com/C8pCFQi.png)
+
+Tens of millions have fled to Whatsapp altenative with a better reputation of implementing end-to-end encryption  has sent millions scrambling away from the most popular messaging app in the world.  it's "new privacy policy" for Whatsapp, there  Data about how many people are joining Signal.> Signal is down. Users are patient and showering them with encouragement. That's usual, if not unprecedanted.
 
 
 Support:
