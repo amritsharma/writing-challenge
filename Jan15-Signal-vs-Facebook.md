@@ -8,19 +8,14 @@ Elon's tweet sent Signal to the top of the "most downloaded" rankings in many co
 
 Unfortunately, despite boldstering their infrastructure by "adding servers as fast as [they] can", Signal buckled under the pressure of the millions of new users and crashed. It is still down and unavailable. 
 
-Surpringly, instead of venting their frustration, users turned to Twitter to shower Signal with words of encouragement and support.
+Surpringly, instead of venting their frustration, users turned to Twitter to shower Signal with [words](https://twitter.com/igautambiswas/status/1350122500277956608
+) of [encouragement](https://twitter.com/cordyceps12/status/1350119313693413379) [and](https://twitter.com/simonthetwit/status/1350119672771969024) [support](https://twitter.com/vyashole/status/1350263494399062017).
 
-Support:
-https://twitter.com/FullStackFool/status/1350121043168522241
-https://twitter.com/igautambiswas/status/1350122500277956608
-https://twitter.com/cordyceps12/status/1350119313693413379
-https://twitter.com/simonthetwit/status/1350119672771969024
-https://twitter.com/vyashole/status/1350263494399062017
-
+![Supportive tweets](https://imgur.com/HOiOgsj.png)
 
 Meanwhile, Elon Musk butted in once again with some commentary about Signal's server-side code. 
 
-![Elon again](https://imgur.com/WdJLyWS)
+![Elon again](https://imgur.com/WdJLyWS.png)
 
 Trust Issues:
 
