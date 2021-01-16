@@ -23,7 +23,7 @@ Meanwhile, Elon Musk butted in once again with some commentary about Signal's se
 
 ## Whatsapp in Damage Control
 
-Whatsapp and Facebook are in damage control mode with a misinformation campaign to address what they call "rumors". Their PR team is working overtime getting stories in popular industry blogs and in a rare move, they're buying (instead of selling) ads, including full page ads on the frontpages of Indian newspapers. 
+Whatsapp and Facebook are in [damage control mode](https://www.reuters.com/article/us-india-facebook-whatsapp/whatsapp-scrambles-as-users-in-big-indian-market-fret-over-privacy-idUSKBN29J148) with a misinformation campaign to address what they call "rumors". Their PR team is working overtime getting stories in popular industry blogs and in a rare move, they're buying (instead of selling) ads, including full page ads on the frontpages of Indian newspapers. 
 
 Yes, Indian newspapers have ads on the front page. Sometimes the first several pages are ads. True story. But that's a tale for another day.
 
