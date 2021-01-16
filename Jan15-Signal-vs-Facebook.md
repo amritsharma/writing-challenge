@@ -1,8 +1,8 @@
-## Elon Leads Exodus of Millions from Whatsapp to Signal (And It Crashed!)
+## Elon Leads Exodus of Millions from WhatsApp to Signal (And It Crashed!)
 
-Tens of millions of people worldwide have scrambled away from Whatsapp in recent days. Spooked by the announcement of a new data sharing policy between Whatsapp and it's less-than-honorable parent company, Facebook, sent them rushing for the door. With more than 2 billion users, Whatsapp is the most popular messaging app in the world. This past week has called into question whether the network effects that kept many of us tied down to Whatsapp are really as strong as we had thought.
+Tens of millions of people worldwide have scrambled away from WhatsApp in recent days. Spooked by the announcement of a new data sharing policy between WhatsApp and it's less-than-honorable parent company, Facebook, sent them rushing for the door. With more than 2 billion users, WhatsApp is the most popular messaging app in the world. This past week has called into question whether the network effects that kept many of us tied down to WhatsApp are really as strong as we had thought.
 
-The exodus from Whatsapp accelerated when Dogecoin CEO and wealthiest man in the world, Elon Musk, tweeted "Use Signal".
+The exodus from WhatsApp accelerated when Dogecoin CEO and wealthiest man in the world, Elon Musk, tweeted "Use Signal".
 
 ![Elon](https://imgur.com/C8pCFQi.png)
 
@@ -21,16 +21,16 @@ Meanwhile, Elon Musk butted in once again with some commentary about Signal's se
 
 ![Elon again](https://imgur.com/WdJLyWS.png)
 
-## Whatsapp in Damage Control
+## WhatsApp in Damage Control
 
-Whatsapp and Facebook are in [damage control mode](https://www.reuters.com/article/us-india-facebook-whatsapp/whatsapp-scrambles-as-users-in-big-indian-market-fret-over-privacy-idUSKBN29J148) with a misinformation campaign to address what they call "rumors". Their PR team is working overtime getting stories in popular industry blogs and in a rare move, they're buying (instead of selling) ads, including full page ads on the front pages of Indian newspapers. 
+WhatsApp and Facebook are in [damage control mode](https://www.reuters.com/article/us-india-facebook-whatsapp/whatsapp-scrambles-as-users-in-big-indian-market-fret-over-privacy-idUSKBN29J148) with a misinformation campaign to address what they call "rumors". Their PR team is working overtime getting stories in popular industry blogs and in a rare move, they're buying (instead of selling) ads, including full page ads on the front pages of Indian newspapers. 
 
 Yes, Indian newspapers have ads on the front page. Sometimes the first several pages are ads. True story. But that's a tale for another day.
 
-![Whatsapp Ads](https://imgur.com/Rh3HGpd.png)
+![WhatsApp Ads](https://imgur.com/Rh3HGpd.png)
 
-Facebook "respecting and protecting user's privacy" is a joke that doesn't even have to be made. Whether it's [violating individual privacy and copyright infringement with FaceMash](https://www.cnbc.com/2019/10/24/19-year-old-mark-zuckerberg-on-privacy-issues-versus-today.html), [stealing the idea for Facebook from the Winklevoss Twins](https://www.theatlantic.com/technology/archive/2010/03/the-duplicitous-deeds-of-mark-zuckerberg/346445/), bait-and-switch on brand Pages by plummeting organic reach to zero, [weaponizing APIs to stifle competition](https://venturebeat.com/2020/12/11/facebooks-alleged-use-of-apis-to-crush-competition-is-a-warning-to-other-data-companies/), lying during Whatsapp acquisition to EU saying it would be ["technically impossible"](https://www.telegraph.co.uk/technology/2016/12/20/facebook-charged-misleading-eu-19bn-whatsapp-deal/) to merge the two social networks, and on and on... 
+Facebook "respecting and protecting user's privacy" is a joke that doesn't even have to be made. Whether it's [violating individual privacy and copyright infringement with FaceMash](https://www.cnbc.com/2019/10/24/19-year-old-mark-zuckerberg-on-privacy-issues-versus-today.html), [stealing the idea for Facebook from the Winklevoss Twins](https://www.theatlantic.com/technology/archive/2010/03/the-duplicitous-deeds-of-mark-zuckerberg/346445/), bait-and-switch on brand Pages by plummeting organic reach to zero, [weaponizing APIs to stifle competition](https://venturebeat.com/2020/12/11/facebooks-alleged-use-of-apis-to-crush-competition-is-a-warning-to-other-data-companies/), lying during WhatsApp acquisition to EU saying it would be ["technically impossible"](https://www.telegraph.co.uk/technology/2016/12/20/facebook-charged-misleading-eu-19bn-whatsapp-deal/) to merge the two social networks, and on and on... 
 
-Jeez. I wonder why people don't trust Facebook's new privacy policy for Whatsapp.
+Jeez. I wonder why people don't trust Facebook's new privacy policy for WhatsApp.
 
 Good luck to the SRE team at Signal who have their hands full trying to get their systems up and running again. "No pressure but please hurry. Save us from the evil Zuck," whispered millions in unison. 
