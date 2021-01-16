@@ -1,11 +1,14 @@
-In the past few days tens of millions of people worldwise have scrambled away from Whatsapp. Spooked by the announcement of a new data sharing policy between Whatsapp and it's less-than-honorable parent company, Facebook, sent them rushing for the door. Whatapp is the most popular messaging app in the world. More than 2 billion people use Whatsapp - many quite religiously. It's not only replaced SMS texting, but in many cases, email as well. 
+Tens of millions of people worldwise have scrambled away from Whatsapp in recent days. Spooked by the announcement of a new data sharing policy between Whatsapp and it's less-than-honorable parent company, Facebook, sent them rushing for the door. With more than 2 billion users, Whatapp is the most popular messaging app in the world. This past week has called into question whether the network effects that kepts many of us in Whatsapp are really as strong as we had thought.
 
-The exodus from Whatsapp was accelerated when Dogecoin CEO, Elon Musk, tweeted "Use Signal".
+The exodus from Whatsapp accelerated when Dogecoin CEO and wealthiest man in the world, Elon Musk, tweeted "Use Signal".
 
 ![Elon](https://imgur.com/C8pCFQi.png)
 
-Tens of millions have fled to Whatsapp altenative with a better reputation of implementing end-to-end encryption  has sent millions scrambling away from the most popular messaging app in the world.  it's "new privacy policy" for Whatsapp, there  Data about how many people are joining Signal.> Signal is down. Users are patient and showering them with encouragement. That's usual, if not unprecedanted.
+Elon's tweet sent Signal to the top of the "most downloaded" rankings in many countries. Tens of millions have already fled to the privacy-first messaging app that has strong end-to-end encryption and want to deliver targeted ads to it's users. 
 
+Unfortunately, despite boldstering their infrastructure by "adding servers as fast as [they] can", Signal buckled under the pressure of the millions of new users and crashed. It is still down and unavailable. 
+
+Surpringly, instead of venting their frustration, users turned to Twitter to shower Signal with words of encouragement and support.
 
 Support:
 https://twitter.com/FullStackFool/status/1350121043168522241
@@ -15,7 +18,9 @@ https://twitter.com/simonthetwit/status/1350119672771969024
 https://twitter.com/vyashole/status/1350263494399062017
 
 
-Elon butted in with some commentary. https://twitter.com/elonmusk/status/1350251607737442310?s=19
+Meanwhile, Elon Musk butted in once again with some commentary about Signal's server-side code. 
+
+![Elon again](https://imgur.com/WdJLyWS)
 
 Trust Issues:
 
