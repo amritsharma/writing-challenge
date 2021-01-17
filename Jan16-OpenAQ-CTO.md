@@ -1,3 +1,6 @@
+#### Tweet thread about OpenAQ's CTO job opening
+
+
 🚨 Job opening: Chief Technology Officer, @OpenAQ! 🚨
 
 Fantastic opportunity for an experienced engineer in USA to join a small team and make a dent in the universe.
@@ -10,11 +13,11 @@ Time for a thread 👇👇👇👇
 
 1) What is @OpenAQ?
 
-It's a 501(c)(3) registered non-profit in Washington, D.C. It's been around since 2015 and has raised money from @cleanairfund, @WorldResources, @ClimateWorks + more. 
+It's a 501(c)(3) registered non-profit in Washington, D.C. It's been around since 2015 and it's work is sponsored by @ClimateWorks, @cleanairfund, @WorldResources + other renowned institutions.
 
-This small but mighty team has made quite an impact in the fight against air pollution.
+This small but mighty team has made quite an impact in the fight against air pollution worldwide already.
 
-
+PHOTO HERE
 -x-
 
 2) OpenAQ's mission is to fight air inequality by opening up air quality data and connecting a diverse global, grassroots community of individuals and organizations.
@@ -23,7 +26,6 @@ This small but mighty team has made quite an impact in the fight against air pol
 🌍 Workshops
 👩‍💻 Ambassador program
 ... and much more.
-
 
 -x-
 
@@ -34,36 +36,38 @@ Air pollution is a global public health crisis that kills an estimated 8 MILLION
 That's not a typo. That's almost 22,000 deaths everyday.
 
 https://www.who.int/health-topics/air-pollution
-Lagos, NIGERIA. New Delhi, INDIA. Sydney, AUSTRALIA. Vancouver, CANADA.
 
-Air pollution is a global public health crisis that kills nearly 7 million people every year. 
+4) At OpenAQ, you get to do something about it.
 
-With OpenAQ, you get to aggregate and harmonize open air quality data across the globe and to build an ecosystem of people across sectors and geographies to use these open data to fight the unequal access to clean air to breathe — air inequality.
+You will aggregate and harmonize open air quality data across the globe and to build an ecosystem of people across sectors and geographies to use these open data to fight the unequal access to clean air to breathe — air inequality.
 
-4) OpenAQ is an open source platform that runs on AWS. 
+5) OpenAQ is completely open source, runs on AWS and has a 1,000+ strong global community on slack.
 
-github.com/opeanq
+ github.com/opeanq
 
-5) The OpenAQ API receives > 1MM data requests every day from NASA scientists, academics researchers, self-funded entrepreneurs, NGOs and teenagers building apps after school. 
+NASA scientists, academic researchers, self-funded entrepreneurs, NGOs and curious teenagers rely on the OpenAQ API for real-time air quality data.
+
+PHOTO.
+
+5) Are you a numbers person? 
+
+The OpenAQ platform has ¾ Billion measurements from 10,000+ air quality stations in 99 countries which get ~35 million data requests/month via the API.
+
+91% of the world’s population live in places where air quality exceeds WHO guideline limits.
 
 
-5) Some stats:
-¾ billion data points
-10,000+ stations in 99 countries
-~35 million data requests/month. > 1MM API calls for data request every DAY. 
-1,000+ passionate community members 
+6) Best of all, you get to work on an All-Star team.
 
-
-6) Awesome team.
 Sruti, Platform Lead. 
 Chisato, Deputy Director.
 Jeremy Taub, Executive Director.
 
+👉 https://openaq.org/#/about?_k=0niwqz
 
-Did I mention it's open source? 
-github.com/openaq/
+7) By the way, did I mention it's open source? github.com/openaq/
 
-Want to learn more about OpenAQ? https://github.com/openaq/openaq-info/blob/master/FAQ.md
+Long list of FAQ about OpenAQ? https://github.com/openaq/openaq-info/blob/master/FAQ.md
 
-If you'd rather jump into the job description directly, go right ahead!
-https://openaq.medium.com/openaq-is-hiring-a-cto-9128e7a026fa
+Here's the job description: https://openaq.medium.com/openaq-is-hiring-a-cto-9128e7a026fa
+
+8) Disclaimer: I recently accepted @OpenAQ's invitation to join their Governing Board. It hasn't been officially announced yet, but you should know.
