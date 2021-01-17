@@ -15,7 +15,7 @@ Time for a thread 👇👇👇👇
 
 It's a 501(c)(3) registered non-profit in Washington, D.C. It's been around since 2015 and is sponsored by @ClimateWorks, @cleanairfund, @WorldResources + other renowned institutions.
 
-PHOTO: Vancouver.
+PHOTO: India.
 
 -x-
 
@@ -42,6 +42,8 @@ https://www.who.int/health-topics/air-pollution
 
 You will aggregate and harmonize open air quality data across the globe and to build an ecosystem of people across sectors and geographies to use these open data to fight the unequal access to clean air to breathe — air inequality.
 
+PHOTO: Paris
+
 -x-
 
 
@@ -51,8 +53,6 @@ You will aggregate and harmonize open air quality data across the globe and to b
 
 NASA scientists, academic researchers, self-funded entrepreneurs, NGOs and curious teenagers rely on the OpenAQ API for real-time air quality data.
 
-PHOTO.
-
 -x-
 
 6) Are you a numbers person? 
@@ -60,6 +60,8 @@ PHOTO.
 The OpenAQ platform has ¾ Billion measurements from 10,000+ air quality stations in 99 countries which get ~35 million data requests/month via the API.
 
 91% of the world’s population live in places where air quality exceeds WHO guideline limits.
+
+PHOTO: Lagos.
 
 -x-
 
@@ -70,7 +72,7 @@ The OpenAQ platform has ¾ Billion measurements from 10,000+ air quality station
 👩 Chisato, Deputy Director.
 👨 Jeremy, Executive Director.
 
-👉 https://openaq.org/#/about?_k=0niwqz
+https://openaq.org/#/about?_k=0niwqz
 
 -x-
 
@@ -81,7 +83,23 @@ The OpenAQ platform has ¾ Billion measurements from 10,000+ air quality station
 
 👋 CTO Job Description: https://openaq.medium.com/openaq-is-hiring-a-cto-9128e7a026fa
 
+
 -x-
 
 
-9) Disclaimer: I recently accepted @OpenAQ's invitation to join their Governing Board. It hasn't been officially announced yet, but I'm honored they asked and thought you should know if you're going to apply for this role.
+9) Disclaimer: I recently accepted @OpenAQ's invitation to join their Governing Board. It hasn't been officially announced yet, but I'm honored they asked me and thought you should know if you're going to apply for this role. Folded hands
+
+-x-
+
+10) Photo credits: 
+
+Flag of Nigeria Lagos, Nigeria: 
+@UndarkMag
+
+Flag of France Paris, France: 
+@GuardianEco
+
+Flag of India Delhi, India: 
+@Reuters
+
+-x- 
