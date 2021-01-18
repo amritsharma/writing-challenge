@@ -1,4 +1,12 @@
-Podcast.
+"Conversations With Bacon" Podcast
+"Mary Thengvall on Developer Relations, Reporting, and Growth."
+https://www.listennotes.com/podcasts/conversations-with/mary-thengvall-on-developer-R2PniqNhYeV/
+
+Discussion
+1. How to measure success?
+2. Does it belong in Tech or Marketing?
+3. Why companies struggle with their Dev Rel hire?
+
 
 Developer Advocate > Developer Avocado
 TKTK spoke fast and sometimes mispronounced it. 
