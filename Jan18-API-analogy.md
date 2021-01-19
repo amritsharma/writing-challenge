@@ -1,4 +1,4 @@
-## API is the new storefront!
+## API is the New Storefront!
 
 Application Programming *Interface*.
 
