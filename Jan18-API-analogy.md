@@ -37,9 +37,12 @@ Today enough companies need to collect payment online, send email, sent text mes
 These specialized software functions are made available and delivered as an API.
 
 Want to collect payment online? There's the Stripe API.
-Want to send email? SendGrid.
-want to send SMS messages? Twilio.
+Want to send email? SendGrid API.
+want to send SMS messages? Twilio API.
 Want to give directions? Google Maps API.
 Want to check the weather? OpenWeatherMap API.
 and so on...
 
+APIs are how you primarily interact with these and many other companies now. It's a trend that's here to stay. 
+
+APIs are the new storefront!
