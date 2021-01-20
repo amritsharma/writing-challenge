@@ -4,7 +4,7 @@ Application Programming *Interface*.
 
 Remember storefronts?
 
-Before COVID-19 upended our lives, we used to walk down the street and sometimes a shiny new gadget, dress or object would catch our eye, enticing us to walk into the store and peruse what they had to offer? That is a storefront. It was the primary interface for many businesses, especially mom and pop stores.
+Before COVID-19 upended our lives, we used to walk down the street and sometimes a shiny new gadget, dress or object would catch our eye, enticing us to walk into the store and peruse what they had to offer? That is a storefront. It was the primary *interface* for many businesses, especially mom and pop stores.
 
 APIs are now becoming the primary interface for more and more businesses. Let me explain. But first, a history lesson:
 
