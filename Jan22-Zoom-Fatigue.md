@@ -14,7 +14,7 @@ I am very lucky that I am able to work remotely from the comfort of my home. My 
 
 I know, I know - Zoom Fatigue is a first world problem.
 
-Although this pales in comparision to the many other challenging and pressing issues in the world today, it is real nonetheless.
+Although this pales in comparison to the many other challenging and pressing issues in the world today, it is real nonetheless.
 
 Let's talk about it.
 
@@ -26,11 +26,11 @@ Exhibit A: Psychiatric Times. https://www.psychiatrictimes.com/view/psychologica
 
 Who would have thought? The micro delay between when someone on your call says something and when you hear it makes a difference.
 
-> There is robust evidence on how eye contact improves connection—faster responses, more memorization of faces14, and increased likeability and attractiveness. These tools that make interactions organically rewarding are compromised over video. On video, gaze must be directed at the camera to appear like making eye contact with an observer, and during conferences with 3 or more people, it can be impossible to distinguish mutual gaze between any 2 people.
+> There is robust evidence on how eye contact improves connection—faster responses, more memorization of faces, and increased likeability and attractiveness. These tools that make interactions organically rewarding are compromised over video. On video, gaze must be directed at the camera to appear like making eye contact with an observer, and during conferences with 3 or more people, it can be impossible to distinguish mutual gaze between any 2 people.
 
-This unwritten rule that I must gaze at the camera or my screen just below it to *appear* engaged takes away from actually being engaged in the conversation.
+This unwritten rule that I must gaze at the camera or my screen in order to *appear* engaged takes away from actually being engaged in the conversation.
 
-> Biologically, videoconferencing is confounded by a more sedentary daily rhythm experienced during the pandemic. Notably, physical activity is associated with about a 40% reduced risk of fatigue.
+> Biologically, video conferencing is confounded by a more sedentary daily rhythm experienced during the pandemic. Notably, physical activity is associated with about a 40% reduced risk of fatigue.
 
 Exhibit B: CBC https://www.cbc.ca/news/technology/zoom-fatigue-is-setting-in-1.5585933
 
@@ -52,11 +52,11 @@ Exhibit C: Symptoms of Zoom Fatigue. https://blog.otter.ai/zoom-fatigue/
 > Headaches or migraines
 > Low productivity
 
-I know others on my team have complained about one or more of these symptoms as of late. It may or may not be directly caused by Zoom Fatigue, but it certaintly doesn't help.
+I know others on my team have complained about one or more of these symptoms as of late. It may or may not be directly caused by Zoom Fatigue, but it certainly doesn't help.
 
 ### So, how am I trying to fix it?
 
-It's 2 step process:
+It's a 2 step process:
 
 #### 1. Turning off my camera. 
 
