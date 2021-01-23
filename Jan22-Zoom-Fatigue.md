@@ -1,6 +1,6 @@
 ## Destory Zoom Fatigue With This One Easy Trick 
 
-![Zoom](https://imgur.com/xow17Sd)
+![Zoom](https://imgur.com/xow17Sd.png)
 
 2020 was weird. It's an obvious understatement to say that 2020 was a strange year.
 
