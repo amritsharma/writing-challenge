@@ -56,4 +56,6 @@ Important:
 
 2. Documentation. Documentation. Documentation. Make it amazing!
 
+3. Submit team details.
 
+4. Submit Coco to Postman before deadline 5pm PST.
