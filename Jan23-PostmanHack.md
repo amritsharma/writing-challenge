@@ -24,7 +24,7 @@ What happens next?
 3. Grab air quality report from OpenAQ.
 4. Make API call to reddit? Eyebleach.
 5. Assemble the rest of the message.
-6. Push to slack via webhook.
+6. Push to slack via webhook. (Ideally it'd be with the Slack API. I could make it really nice like Guac.)
 
 Brainstorming:
 
