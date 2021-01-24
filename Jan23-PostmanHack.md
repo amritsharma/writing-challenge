@@ -36,7 +36,9 @@ Brainstorming:
 
 * Air quality report. >> US EPA or WHO guidelines >> Meets or does not meet standards.
 
-* Happy start to your day: Joke / **Eyebleach** / Aww / Cuteness.
+* Happy start to your day: Joke / **Eyebleach** / Aww / Cuteness. >> Pug. https://unsplash.com/wallpapers/cute/pug
+
+* ~Something to marvel at: NASA Photo of the Day,~
 
 * Stretch -- [5 mins](https://www.youtube.com/watch?v=2L2lnxIcNmo), [10 mins](https://www.youtube.com/watch?v=4pKly2JojMw), [30 mins](https://www.youtube.com/watch?v=OMu6OKF5Z1k), [Stretch at desk](https://www.youtube.com/watch?v=tAUf7aajBWE) or [Office break](https://www.youtube.com/watch?v=M-8FvC3GD8c) or [PTs 10 stretches for office in 2 minutes](https://youtu.be/w1INfs260DY?t=490)
 
