@@ -56,6 +56,8 @@ Important:
 
 2. Documentation. Documentation. Documentation. Make it amazing!
 
-3. Submit team details.
+3. Submit team details. DONE.
 
-4. Submit Coco to Postman before deadline 5pm PST.
+4. Marketing materials with Canva. Lots of Pugs! 
+
+5. Submit Coco to Postman before deadline 5pm PST.
