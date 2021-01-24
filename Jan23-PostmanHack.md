@@ -1,5 +1,3 @@
-Let's go!
-
 ### The Postman API Hack
 Hack the future of APIs and unleash what you can do.
 
@@ -19,11 +17,11 @@ Kick your morning off by taking care of yourself with the Zen Morning Postman Co
 Input: Your address in the query parameter. 
 
 What happens next?
-1. Convert address to coordinates with Position Stack API.  
-2. Grab weather forecast from OpenWeatherMap.
-3. Grab air quality report from OpenAQ.
-4. Make API call to reddit? Eyebleach.
-5. Assemble the rest of the message.
+1. Convert address to coordinates with Position Stack API. // DONE
+2. Grab weather "Feels like" temperature from OpenWeatherMap. // DONE
+3. Grab air quality report from OpenAQ. // API is down. Getting 504 Gateway Time-out.
+4. Make API call to reddit? Eyebleach. // Not right now.
+5. Assemble the rest of the message. // To do.
 6. Push to slack via webhook. (Ideally it'd be with the Slack API. I could make it really nice like Guac.)
 
 Brainstorming:
