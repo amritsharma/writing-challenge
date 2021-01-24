@@ -8,7 +8,7 @@ Hack the future of APIs and unleash what you can do.
 
 We challenge you to not just create a Postman public workspace with a Collection of APIs, but build something that is creative, has compelling value to developers, addresses a problem, or has community interest.
 
-### Idea: Morning Zen
+### Idea: Morning Zen (Slack bot named Coco?)
 
 You are amazing. APIs, collections, environments, mocks, monitors and more. Postman takes care of your APIs. Take care of yourself too. 
 
@@ -28,7 +28,7 @@ What happens next?
 
 Brainstorming:
 
-* :sun: Good morning. It's a new day! Close your eyes! inhale.... and ... exhale! 
+* :sun: Good morning sunshine, it's me, Coco! It's a new day! Close your eyes! inhale.... and ... exhale! 
 
 * Meditate for 5 minutes. - https://www.youtube.com/watch?v=inpok4MKVLM. or egg timer?
 
