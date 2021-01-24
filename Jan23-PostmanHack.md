@@ -28,7 +28,9 @@ Brainstorming:
 
 * :sun: Good morning sunshine, it's me, Coco! It's a new day! Close your eyes! inhale.... and ... exhale! 
 
-* Meditate for 5 minutes. - https://www.youtube.com/watch?v=inpok4MKVLM. or egg timer?
+* Meditate for 5 minutes. - https://www.youtube.com/watch?v=inpok4MKVLM. or **egg timer**?
+
+* Journal with Google Docs. https://doc.new/
 
 * Weather. 
 
@@ -46,4 +48,12 @@ Brainstorming:
 
 Publish it to your own private slack channel: #morningzen (or something else)
 
-* Messages sent via Slack webhook.
+* Messages sent via Slack webhook or the Slack API
+
+Important:
+
+1. Decide what the message will look like. Should Coco say everything or pick and choose one thing! 
+
+2. Documentation. Documentation. Documentation. Make it amazing!
+
+
