@@ -1,6 +1,6 @@
 # How To Build A Twitter Bot with Postman (In Under 20 Minutes)
 
-This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Everyday it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no". That's it.
+This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Every afternoon it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no." It's the "Has Apple acquired Tesla yet?" bot. That's it.
 
 ![Apple Tesla](https://i.imgur.com/ZwtUFpZ.png)
 
@@ -42,14 +42,20 @@ Either way, we set the `tweet_message` environment variable in Postman according
 
 ### Step 3. Send the tweet.
 
+Now that the `tweet_message` environment variable has the text we want tweet out. The last thing we need to do is POST request to send the tweet.
 
-POST Update Status.
-Create Twitter request in Postman. 
-
-### Step 4. Use Postman Monitors to schedule this collection to run everyday, or as frequently as you'd like.
-Monitors are cron jobs within Postman. It works and creates a report that you can 
+![Send tweet](https://i.imgur.com/ujhJVIH.png)
 
 
-### Possibilities 
+### Step 4. Automate it.
 
-Integrate with Email? Text? Slack? Spotify? Tweets? Weather? Air quality? If there's an API for it, you can at the very least build an MVP for it within Postman. No IDEs, no server, no serverless, heck - no costs. You can create Collections on Postman and run them regularly with some generous usage limits on the FREE tier. If you find yourself hitting those limits, $12/month for the Team tier subscription is a steal.
+Monitors are like cron jobs within Postman. It allows you to run entire collections automatically everyday or as frequently as you'd like. Postman even creates a nifty report that shows you details and stats about each run.
+
+![Monitors](https://imgur.com/xc6PxB4.png)
+
+That's it.
+
+
+### Possibilities with Postman
+
+Want to integrate with Email? Text? Slack? Spotify? Tweets? Weather? Air quality? If there's an API for it, you can at the very least build an MVP for your side project within Postman. No IDEs, no servers, no configuration, heck - no costs. You can create Collections and run them regularly with some generous usage limits on Postman's FREE tier. If you find yourself hitting those limits, the $12/month for the Team tier subscription is a steal.
