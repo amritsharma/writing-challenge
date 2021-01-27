@@ -3,6 +3,7 @@
 This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Everyday it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no". That's it.
 
 ![Apple Tesla](https://i.imgur.com/ZwtUFpZ.png)
+
 Credit: [PDL Comics](https://twitter.com/PDLComics/status/1354111867371876352)
 
 Look. I know, I know. It's a terrible bot idea and Apple is not going to acquire Tesla anymore. 
