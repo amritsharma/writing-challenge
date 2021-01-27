@@ -1,26 +1,21 @@
 # How To Build A Twitter Bot with Postman (In Under 20 Minutes)
 
-This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes. Frankly, it doesn't do much. Everyday it keeps an eye out for me to see whether Apple has acquired Tesla yet or not. That's it.
+This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Everyday it keeps an eye out for me to see if Apple has acquired Tesla yet or not. That's it.
 
-Look. I know, I know. It's not gonna happen anymore. Tesla isn't strapped for cash anymore, and Apple is doing their own thing. But that's not the point.
+![Apple Tesla](https://i.imgur.com/ZwtUFpZ.png)
 
-Market cap TABLE:
-2017 and 2021
-Apple X, X
-Tesla X, X
+Look. I know, I know. Apple is not gonna acquire Tesla anymore. 
 
-*If a tree falls in a forest and no one is around to hear it, does it make a sound?*
+But, almost exactly six years ago, the [rumor mill](https://www.linkedin.com/pulse/apple-buy-tesla-75b-18-months-jason-calacanis/) on twitter was abuzz with speculation that Apple may pull the trigger and buy Tesla. They almost got it right. Recently Elon Musk revealed that he did [reach out to Tim Cook](https://twitter.com/elonmusk/status/1341485211209637889?s=20) during the "dark days" of Model 3 production to have that conversation. But Tim gave him the cold shoulder.
 
-If you have an idea, buy a domain for it, work on it for a few hours/days/weeks, but never launch, because.... oh I have another idea!
+Anyways, I was intrigued and signed up on twitter with a new handle: @AppleTesla.
 
-Side projects that need to do something simple. The dreaded email from Hover telling me that yet another domain I bought for a side project I never launched is going to expire in a week and it's going to be $13.99 for another year, where let's be honest, it may or may not see the light of day.
+So far I have sporadically tweeted a cheeky "no" from this account, maybe a few dozen times. This week I sat down with Postman and automated it in 20 minutes. 
 
+Let's go through it one by one.
 
-But back in day, In 20XX, the rumor mill was running and twitter was abuzz about whether Apple was about to acquire Tesla. I was intrigued. A couple nights after I heard Jason Calicanis' inteview on CNBC, in my probably coffee-infused late-night (procrastinating from) work sessions, I created a new account  Has Apple acquired Tesla yet? 
-
-After a couple years of sporadically tweeting from this account a few dozen times, this week I sat down with Postman and automated it for good in 20 minutes. It would have taken me even less time if it wasn't my first time.
-
-Let's go.
+### Idea. @AppleTesla
+Tweet "no" (or a slightly variation of it) every day at 1pm EST if www.apple.com/tesla still returns a 404 Page Not Found error. 
 
 
 ### Step 1. Twitter API keys.
@@ -48,3 +43,7 @@ Create Twitter request in Postman.
 ### Step 4. Use Postman Monitors to schedule this collection to run everyday, or as frequently as you'd like.
 Monitors are cron jobs within Postman. It works and creates a report that you can 
 
+
+### Possibilities 
+
+Integrate with Email? Text? Slack? Spotify? Tweets? Weather? Air quality? If there's an API for it, you can at the very least build an MVP for it within Postman. No IDEs, no server, no serverless, heck - no costs. You can create Collections on Postman and run them regularly with some generous usage limits on the FREE tier. If you find yourself hitting those limits, $12/month for the Team tier subscription is a steal.
