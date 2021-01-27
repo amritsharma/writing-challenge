@@ -1,6 +1,6 @@
 # How To Build A Twitter Bot with Postman (In Under 20 Minutes)
 
-This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Every afternoon it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no." It's the "Has Apple acquired Tesla yet?" bot. That's it.
+This is a story about how I built a twitter bot, [@AppleTesla](https://twitter.com/appletesla), in 20 minutes with Postman. Frankly, it doesn't do much. Every afternoon it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no." It's the "Has Apple acquired Tesla yet?" bot. That's it.
 
 ![Apple Tesla](https://i.imgur.com/ZwtUFpZ.png)
 
@@ -10,7 +10,7 @@ Look. I know, I know. It's a terrible bot idea and Apple is not going to acquire
 
 But, almost exactly six years ago, the [rumor mill](https://www.linkedin.com/pulse/apple-buy-tesla-75b-18-months-jason-calacanis/) on twitter was abuzz with speculation that Apple may pull the trigger and buy Tesla. They almost got it right. Recently Elon Musk revealed that he did [reach out to Tim Cook](https://twitter.com/elonmusk/status/1341485211209637889?s=20) during the "dark days" of Model 3 production to have that conversation. But Tim gave him the cold shoulder.
 
-Anyways, I was intrigued and signed up on twitter with a new handle: @AppleTesla.
+Anyways, I was intrigued and signed up on twitter with a new handle: [@AppleTesla](https://twitter.com/appletesla).
 
 So far I have sporadically tweeted a cheeky "no" from this account, maybe a few dozen times. This week I sat down with Postman and automated it in 20 minutes. 
 
@@ -49,7 +49,7 @@ Now that the `tweet_message` environment variable has the text we want tweet out
 
 ### Step 4. Automate it.
 
-Monitors are like cron jobs within Postman. It allows you to run entire collections automatically everyday or as frequently as you'd like. Postman even creates a nifty report that shows you details and stats about each run.
+Monitors are like cron jobs within Postman. It allows you to run entire collections automatically everyday or as frequently as you'd like. Postman even creates a nifty report that shows you details and stats about each run. With this Monitor, Postman runs this collection at 1pm EST every day.
 
 ![Monitors](https://imgur.com/xc6PxB4.png)
 
