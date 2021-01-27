@@ -3,6 +3,7 @@
 This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes with Postman. Frankly, it doesn't do much. Everyday it checks if www.apple.com/tesla is still returning a 404 Page Not Found error and tweets a "no". That's it.
 
 ![Apple Tesla](https://i.imgur.com/ZwtUFpZ.png)
+Credit: [PDL Comics](https://twitter.com/PDLComics/status/1354111867371876352)
 
 Look. I know, I know. It's a terrible bot idea and Apple is not going to acquire Tesla anymore. 
 
@@ -24,18 +25,19 @@ The Twitter Developer Portal is your one stop shop to organize your twitter app 
 
 Only Twitter's v1 API includes the ability to send a tweet with an API call. When you have set up your project, navigate to the "Keys and Tokens" tab to generate the Consumer Key, Consumer Secret, Access Token and the Token Secret tokens. You will need to include all four of these tokens in the request header to authenticate your API calls. 
 
-Fortunately we only have to OAuth 1.0. for Twitter APIs for a little while longer, v2 of Twitter's APIs use OAuth 2.0 where you'll need to send a single bearer token with your requests.
+Fortunately we only have to deal with OAuth 1.0a with Twitter APIs for a little while longer, v2 of Twitter's APIs use [OAuth 2.0 for authentication](https://developer.twitter.com/en/docs/authentication/overview) where you'll need to send a single bearer token with your requests.
 
 
-### 2. Step 2. Check Apple.
+### Step 2. Visit Apple.
 
-Check whether Apple has acquired Twitter yet. GET that URL.
-Ping the https://www.apple.com/tesla URL to check whether you still get a 404 Page Not Found, indicating that no, apple has not acquired Tesla yet.
- 
+In Postman, we'll create our first of two requests for this bot. 
 
-In the "Tests" tab, write some javascript that checks whether it's a 404 and save a message you want to send in the `tweet_message` environment variable.
-Either way, set environment variable in Postman with a tweet message. 
-SCREENSHOT of request + javascript
+We will ping the https://www.apple.com/tesla URL with a GET request and see what response we get. In the "Tests" tab, I wrote some javascript that checks whether the response has status code 404 Page Not Found, which will tell us that Apple still hasn't acquired Tesla yet. 
+
+Either way, we set the `tweet_message` environment variable in Postman accordingly with the tweet text. 
+
+![GET Apple](https://imgur.com/gPeeWEU.png)
+
 
 ### Step 3. Send the tweet.
 
