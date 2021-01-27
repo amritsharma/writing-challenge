@@ -1,4 +1,4 @@
-# How To Build A Twitter Bot with A Postman Collection In 20 Minutes
+# How To Build A Twitter Bot with Postman (In Under 20 Minutes)
 
 This is a story about how I built a twitter bot, @AppleTesla, in 20 minutes. Frankly, it doesn't do much. Everyday it keeps an eye out for me to see whether Apple has acquired Tesla yet or not. That's it.
 
