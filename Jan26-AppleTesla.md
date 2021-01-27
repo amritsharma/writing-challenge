@@ -20,9 +20,12 @@ Tweet "no" (or a slight variation of it) every day at 1pm EST if www.apple.com/t
 
 ### Step 1. Twitter API keys.
 
-Sign up for Twitter. Apply to become a developer. Wait for approval. Create app. (screenshot). Grab credentials. 
-v1 API only. OAuth 1.0: Consumer Key, Consumer Secret, Access Token and the Token Secret. Twitter v2 API in beta uses OAuth 2.0 where all you need is a bearer token, but sending a tweet (aka, "POST update status") is not available yet.
-SCREENSHOT of twitter UI.
+The Twitter Developer Portal is your one stop shop to organize your twitter app projects and manage your API keys. To get started, you will need to have a twitter account, apply to become a developer and wait for their approval.
+
+Only Twitter's v1 API includes the ability to send a tweet with an API call. When you have set up your project, navigate to the "Keys and Tokens" tab to generate the Consumer Key, Consumer Secret, Access Token and the Token Secret tokens. You will need to include all four of these tokens in the request header to authenticate your API calls. 
+
+Fortunately we only have to OAuth 1.0. for Twitter APIs for a little while longer, v2 of Twitter's APIs use OAuth 2.0 where you'll need to send a single bearer token with your requests.
+
 
 ### 2. Step 2. Check Apple.
 
