@@ -1,4 +1,4 @@
-## Ask your WebDev if iTermocil Is right for you! 
+## Ask your WebDev if iTermocil is right for you! 
 
 Five hours ago, I would have guessed that iTermocil is a prescription medicine you'd hear about on a late night TV commercial that ends with "talk to your doctor if iTermocil is right for you!"
 
