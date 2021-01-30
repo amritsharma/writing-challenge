@@ -39,3 +39,19 @@
 * PUT vs PATCH
 
 * 206 Partial Content.
+
+* Outdoor air purifiers.
+
+* Deep dive into the Twitter API. (Nomics, OpenAQ, Twilio, GCP, and others)
+
+* Tutorial: how to build a Whatsapp bot with the Twilio API.
+
+* Historic ruling in death of Ella Adoo-Kissi-Debrah. v/s "Air pollution does not cause death, not on death certificate." Bhargav's piece on it? 
+
+* ...
+
+
+#### Resources
+
+* Top posts of all time on Dev.TO: https://dev.to/top/infinity
+
