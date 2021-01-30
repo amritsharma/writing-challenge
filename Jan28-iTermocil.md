@@ -16,7 +16,7 @@ This is a slightly over-the-top example of iTerm2 by [/u/Erentigionation](https:
 
 ![iTerm2](https://imgur.com/j8MXRnC.png)
 
-If you look closely, there are six panes in this window. 
+There are six panes in this window. Five are clearly visible, but can you spot the sixth one?
 
 Here's the problem that iTermocil solves:
 
