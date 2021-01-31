@@ -1,31 +1,20 @@
-### Swanson's Law, Wright's Law and The Experience Curve
+## Swanson's Law and The Experience Curve
 
-What is it?
-Swanson's law says that the price of solar panels (solar photovoltaic modules) tends to drop 20 percent for every doubling of cumulative shipped volume.
+Swanson's Law says that the price of solar panels* tends to drop 20 percent for every doubling of cumulative shipped volume. In other words, as the world gets more proficient at making solar panels, they get cheaper.
 
-It's interesting because the % drop in price for doubling in shipped volume remains constant even as the industry gets significantly larger.
+It makes good sense too. 
 
-Wiki: Due to economies of scale solar panels get less costly as people use and buy more—as manufacturers increase production to meet demand, the cost and price is expected to drop in the years to come. 
+As the demand for solar panels grows, we produce more of them, which allows us to learn how to make them more effectively and get to take advantage of what economists call "economies of scale". That allows us to build and these more cheaply.
 
-It's often compared to Moore's Law.
+In fact, Swanson's Law seems to have underestimated the impact of these learnings as the price of solar panels have been dropped by 30-40% for every doubling in shipped volume. 
 
-Moore's Law says that for every (blank) the (blank). The x-axis is time. While Swanson's Law is a function of time, but instead demand/supply (technically, shipments.)
+![Ramez](https://imgur.com/fvqmDvK.png)
 
+Source: [Ramez Naam](https://twitter.com/ramez/status/1261011835693568001)
 
+Swanson's Law is often compared to Moore's Law.
 
-Why is it called Swanson's Law? 
-Mr. Swanson wasn't the first one to observe this trend. 
+Moore's law says that the number of transistors in a dense integrated circuit doubles about every two years. It is the result of many of these doublings over the past 20 years that a smartphone today is not just a phone. It's a camera, GPS, video camera, alarm clocks and much more.
 
-Talk about Patrick C and Ramez Naam tweets about Swanson's Law:
-https://twitter.com/patrickc/status/1261018202919677953?lang=en
+It's important to note that the x-axis for Moore's law is time, which makes it rather easy to understand. Whereas the drop in prices illustrated by Swanson's Law is a function of increasing shipments (i.e. demand/supply). The x-axis tends to be either cumulate shipped volume or installed solar volume.
 
-What's Wright's Law?
-Interestingly, Swanson's Law is simply one example of the Wright's Law. When the Wright's Law is applied to the price of solar panels, it's called the Swanson's Law.
-
-Arguably Wright's Law is more interesting because it can be applied to many more situations.
-
-Wright's Law is also called Experience Curve. Ex
-
-It states that ... 
-
-CNBC: Solar panel prices are dropping dramatically. The solar industry has its own variant of Moore’s Law, which says that the number of transistors (and hence the computing power) on an integrated circuit doubles every two years. Swanson’s Law says that the price of solar photovoltaic modules tends to drop 20 percent for every doubling of cumulative shipped volume. At present rates, costs drop 50 percent about every 10 years. 
