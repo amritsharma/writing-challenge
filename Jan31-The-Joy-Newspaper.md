@@ -4,13 +4,13 @@ Like clockwork, every morning I'd rush out to our balcony to grab the day's news
 
 Balcony!?
 
-Yep. You see, in Kathmandu, if you have a newspaper subscription, the deliever person would bike from house to house and chuck rolled up newspapers, almost like a boomerang on a one-way mission, onto your front step's or your balcony - whatever you prefered.
+Yep. You see, in Kathmandu, if you have a newspaper subscription, the deliever person would bike to your house and chuck the rolled up newspaper, like a broken boomerang, onto your front step or your balcony - whatever you prefered.
 
-Our newspaper of choice was The Kathmandu Post, Nepal's largest selling English daily. 
+Our newspaper of choice was The Kathmandu Post, Nepal's largest selling English daily.
 
 ![KTM Post](https://i.imgur.com/dS70WhY.png)
 
-I'd at least skim every story in the newspaper, if not read it through and through. But before I got to them, I had to flip to the back of the newspaper for the Sports section.
+Every morning, I'd sit in the sun and at least skim every story in the newspaper, if not read it through and through. But before I got to the stories, I had to flip to the back of the newspaper for the Sports section.
 
 Climate change. Trees. Yadi yadi yada.
 
