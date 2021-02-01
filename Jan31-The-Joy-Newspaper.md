@@ -12,7 +12,7 @@ I don't remember my parents ever making me read the newspaper. It was something 
 
 ![KTM Post](https://i.imgur.com/dS70WhY.png)
 
-Before I went to school, I'd sit in the sun and at least skim, if not read, every story in the newspaper. But before I'd get to the stories, I had to flip to the back of the newspaper for the Sports section.
+Before I went to school, I'd sit in the sun and at least skim, if not read, every story in the newspaper. But before I'd get to the stories, I had to flip to the back of the newspaper for the Sports section. I loved to keep up with current affairs around the world. Most of the stories covered the latest happenings in Nepal, India and other SAARC countries, but the newspaper did justice to significant stories from further away as well. I suppose the latter is due to wire services like Reuters and AP.
 
 #### Fast Forward to 2021
 
@@ -24,29 +24,28 @@ Yep, the Saturday edition of the paper is more expensive than others days becaus
 
 ![BULL OR BUBBLE?](https://imgur.com/FS4BM7B.png)
 
+After dinner tonight, I sank into my couch with the stack of papers with me, while soothing indie music filled the living room. I was excited, almost giddy, to have an actual newspaper in my hands.
 
-After dinner, I sunk into my couch with the stack of papers with me, while soothing indie music filled the living room. I was excited, almost giddy, to have an actual newspaper in my hands.
+`Few distractions`
 
-...
+What struck me almost immediately is that my mind didn't wander anywhere nearly as much as it does when I am reading something online. I typically have dozens of tabs open on my Mac, several other applications and getting pinged by the occasional notification. The most distracting thought was how there are so few distractions. I guess it helps that I didn't know where my phone was. I later found it deep inside my couch cushions. :)
 
-My mind didn't wander anywhere close to as much as it would if i was reading this article on a tab. There are dozens of other tabs open. The occasional notification somewhere.
+`Data Viz`
 
-But this was a pure experience with smooth indie music playing on the TV while I sat on the couch with Saturday's The Globe and Mail in my mind that I paid $7 for.
+The combination of colors, data visualization and thoughtful design, with the high calibre writing made the stories pop. On Page 2, I'm presuming everyday, there's a summary of COVID cases and deaths from around Canada. I learned that at least 3,740 people are being treated for COVID-19 in hospitals today. That is higher than I thought it would be.
 
+The graphics on the "Canada's drinking problem" help make the numbers make sense. Particularly the charts showing that not all drinks are creating equal. For instance, a strong beer (7%) tall can (473ml) is equivalent to 1.9 standard drink servings. 
 
-The Saturday edition is a bulky one. Besides the standard "news" chunk, there's the Art & Pursuits, Business and Opinion chunks as well.
+Did you know that the only country with more lax alcohol guidelines is Spain. The recommended maximum weekly limit in 21 drinks for men and 13 for women. It's 15 and 10 for Canada. While Netherlands in comparision is a third of ours with 5 maximum drinks recommended per week for men and women alike.
 
-I was going to write about something else, reflect on this past month, the wins, the lessons learned, the mistakes made, but I suppose I could still do that in a few days once this month-long experience has been marinating in my mind some more. 
+`Information Retention!`
 
-Avid reader of The Kathmandu Post (link) every morning growing up. Grab the newspaper and sit in the sun at our home in Baluwatar. Start at the last page. Sports! Then USA, Nepal, India, SAARC, .. I wanted it all.
+[Evidence](https://hechingerreport.org/evidence-increases-for-reading-on-paper-instead-of-screens/) shows that we retain more information after reading from paper instead of a screen. That may not be the case for everybody. I know people who have sworn off of books and consume them from their Kindles or iPads. I certaintly am not one of them. I have always known this about myself. When I am reading on a screen. I tend to subconsciously gloss over the words and almost just glaze at several sentences. How else are you supposed to read everything on the internet?
 
-Data visualization - alcohol consumption, COVID, etc.
+Reading on paper, on the other hand, feels different.
 
-The colors! 
+`Take aways from The Globa And Mail Today`
 
-Information Retention! 
-
-Let me walk you through it:
 1. Michaels.
 2. Moderate alcohol consumption is too much. 3 drinks/day for men is within Canada's guidelines for low-risk alcohol consumption. Yes, 15 
 3. Ittawa bans travel to Caribbean, Mexico. 
@@ -61,9 +60,8 @@ Let me walk you through it:
 12. Lonliness during pandemic taking a toll on Canadians
 13. Toronto forecast and Almanac - aww, international touch. Beautiful, simple, minimalist... elegant design. 
 
-The ads weren't intrusive. 
+I love the editorial checks and balances that a newsroom provides. It's so refreshing after consuming news online for so many years and having an exponentially harder time distinguishing the news from opinion, lies and conspiracy theories.   <3 
 
-Editorial checks and balances. <3 
+#### Fun fact
 
-Liberal bias? Not sure. 
-
+I went down a wikipedia rabbit hole earlier because I was curious about The Globe and Mail's politicial leanings and history. I was surpringed to find that the family that own much of Thomson Reuters (hint: The Thomsons) owns 100% of The Globe and Mail, via their private holding company called [The Woodbridge Company](https://en.wikipedia.org/wiki/The_Woodbridge_Company).
