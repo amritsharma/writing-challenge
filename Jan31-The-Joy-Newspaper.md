@@ -4,17 +4,24 @@ It was the 90s. Like clockwork, every morning I'd rush out to our balcony to gra
 
 Balcony!?
 
-Yep. You see, in Kathmandu, if you have a newspaper subscription, the deliever person would bike to your house and chuck the rolled up newspaper, like a broken boomerang, onto your front step or your balcony - whatever you prefered.
+Yep. You see, in Kathmandu, if you have a newspaper subscription, the delivery person would bike to your house and chuck the rolled up newspaper, like a broken boomerang, perfectly onto your front step or your balcony - whatever you prefered.
 
 Our newspaper of choice was The Kathmandu Post, Nepal's largest selling English daily.
 
 ![KTM Post](https://i.imgur.com/dS70WhY.png)
 
-Every morning, I'd sit in the sun and at least skim every story in the newspaper, if not read it through and through. But before I got to the stories, I had to flip to the back of the newspaper for the Sports section.
+Before I went to school, I'd sit in the sun and at least skim, if not read, every story in the newspaper. But before I'd get to the stories, I had to flip to the back of the newspaper for the Sports section.
 
-Climate change. Trees. Yadi yadi yada.
+#### Fast Forward to 2021
 
-It's just not the same. 
+While buying eggs and bread at our corner grocery store this evening, the colorful "BULL OR BUBBLE? headline on the front page of Saturday's The Globe And Mail was too tempting for me to pass up.
+
+<INSERT PHOTO HERE>
+
+
+Reading a story online just isn't the same.
+
+
 
 My mind didn't wander anywhere close to as much as it would if i was reading this article on a tab. There are dozens of other tabs open. The occasional notification somewhere.
 
