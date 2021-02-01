@@ -8,26 +8,31 @@ Yep. You see, in Kathmandu, if you have a newspaper subscription, the delivery p
 
 Our newspaper of choice was The Kathmandu Post, Nepal's largest selling English daily.
 
+I don't remember my parents ever making me read the newspaper. It was something I thoroughly enjoyed.
+
 ![KTM Post](https://i.imgur.com/dS70WhY.png)
 
 Before I went to school, I'd sit in the sun and at least skim, if not read, every story in the newspaper. But before I'd get to the stories, I had to flip to the back of the newspaper for the Sports section.
 
 #### Fast Forward to 2021
 
-While buying eggs and bread at our corner grocery store this evening, the colorful "BULL OR BUBBLE? headline on the front page of Saturday's The Globe And Mail was too tempting for me to pass up.
+A few hours ago, I was out buying eggs and bread at our corner grocery store when the colorful "BULL OR BUBBLE? headline on the front page of The Globe And Mail tempted me to make the $7 impulse purchase. 
 
-<INSERT PHOTO HERE>
+SEVEN DOLLARS!?
+
+Yep, the Saturday edition of the paper is more expensive than others days because it has bonus Arts & Pursuits, Business and Opinion sections as well.
+
+![BULL OR BUBBLE?](https://imgur.com/FS4BM7B.png)
 
 
-Reading a story online just isn't the same.
+After dinner, I sunk into my couch with the stack of papers with me, while soothing indie music filled the living room. I was excited, almost giddy, to have an actual newspaper in my hands.
 
-
+...
 
 My mind didn't wander anywhere close to as much as it would if i was reading this article on a tab. There are dozens of other tabs open. The occasional notification somewhere.
 
 But this was a pure experience with smooth indie music playing on the TV while I sat on the couch with Saturday's The Globe and Mail in my mind that I paid $7 for.
 
-SEVEN DOLLARS!?
 
 The Saturday edition is a bulky one. Besides the standard "news" chunk, there's the Art & Pursuits, Business and Opinion chunks as well.
 
