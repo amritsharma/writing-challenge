@@ -1,6 +1,6 @@
 ## The Joy of Reading a Newspaper
 
-Like clockwork, every morning I'd rush out to our balcony to grab the day's newspaper. 
+It was the 90s. Like clockwork, every morning I'd rush out to our balcony to grab the day's newspaper. 
 
 Balcony!?
 
